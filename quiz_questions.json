@@ -1,0 +1,6162 @@
+[
+    {
+        "question": "Which is the largest continent by area?",
+        "options": [
+            "Africa",
+            "Asia",
+            "North America",
+            "Europe"
+        ],
+        "answer": "Asia"
+    },
+    {
+        "question": "Which is the smallest continent by area?",
+        "options": [
+            "Australia",
+            "Europe",
+            "Antarctica",
+            "South America"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the capital city of Canada?",
+        "options": [
+            "Toronto",
+            "Ottawa",
+            "Montreal",
+            "Vancouver"
+        ],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "Which is the longest river in the world?",
+        "options": [
+            "Nile",
+            "Amazon",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "question": "Mount Everest is located in which mountain range?",
+        "options": [
+            "Andes",
+            "Alps",
+            "Himalayas",
+            "Rockies"
+        ],
+        "answer": "Himalayas"
+    },
+    {
+        "question": "Which is the largest ocean in the world?",
+        "options": [
+            "Atlantic",
+            "Pacific",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Pacific"
+    },
+    {
+        "question": "Sahara Desert is located in which continent?",
+        "options": [
+            "Asia",
+            "Africa",
+            "Australia",
+            "South America"
+        ],
+        "answer": "Africa"
+    },
+    {
+        "question": "Which country has the most population in the world?",
+        "options": [
+            "India",
+            "China",
+            "USA",
+            "Indonesia"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "Which is the largest country by area?",
+        "options": [
+            "Canada",
+            "USA",
+            "China",
+            "Russia"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "question": "Which is the smallest country in the world?",
+        "options": [
+            "Monaco",
+            "Nauru",
+            "Vatican City",
+            "San Marino"
+        ],
+        "answer": "Vatican City"
+    },
+    {
+        "question": "Which is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Arabian"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Danube"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which mountain is the highest in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Atlas Mountains",
+            "Table Mountain"
+        ],
+        "answer": "Mount Kilimanjaro"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Yamuna",
+            "Narmada",
+            "Ganga",
+            "Godavari"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": [
+            "Venice",
+            "Amsterdam",
+            "Bangkok",
+            "Hamburg"
+        ],
+        "answer": "Venice"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Madagascar",
+            "Greenland",
+            "Borneo",
+            "New Guinea"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which is the coldest continent?",
+        "options": [
+            "Europe",
+            "Asia",
+            "Antarctica",
+            "North America"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Arctic"
+    },
+    {
+        "question": "Which is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Arabian"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Danube"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which mountain is the highest in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Atlas Mountains",
+            "Table Mountain"
+        ],
+        "answer": "Mount Kilimanjaro"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Yamuna",
+            "Narmada",
+            "Ganga",
+            "Godavari"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": [
+            "Venice",
+            "Amsterdam",
+            "Bangkok",
+            "Hamburg"
+        ],
+        "answer": "Venice"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Madagascar",
+            "Greenland",
+            "Borneo",
+            "New Guinea"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which is the coldest continent?",
+        "options": [
+            "Europe",
+            "Asia",
+            "Antarctica",
+            "North America"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Arctic"
+    },
+    {
+        "question": "Which is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Arabian"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Danube"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which mountain is the highest in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Atlas Mountains",
+            "Table Mountain"
+        ],
+        "answer": "Mount Kilimanjaro"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Yamuna",
+            "Narmada",
+            "Ganga",
+            "Godavari"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": [
+            "Venice",
+            "Amsterdam",
+            "Bangkok",
+            "Hamburg"
+        ],
+        "answer": "Venice"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Madagascar",
+            "Greenland",
+            "Borneo",
+            "New Guinea"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which is the coldest continent?",
+        "options": [
+            "Europe",
+            "Asia",
+            "Antarctica",
+            "North America"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Arctic"
+    },
+    {
+        "question": "Which is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Arabian"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Danube"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which mountain is the highest in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Atlas Mountains",
+            "Table Mountain"
+        ],
+        "answer": "Mount Kilimanjaro"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Yamuna",
+            "Narmada",
+            "Ganga",
+            "Godavari"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": [
+            "Venice",
+            "Amsterdam",
+            "Bangkok",
+            "Hamburg"
+        ],
+        "answer": "Venice"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Madagascar",
+            "Greenland",
+            "Borneo",
+            "New Guinea"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which is the coldest continent?",
+        "options": [
+            "Europe",
+            "Asia",
+            "Antarctica",
+            "North America"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Arctic"
+    },
+    {
+        "question": "Which is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Arabian"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Danube"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which mountain is the highest in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Atlas Mountains",
+            "Table Mountain"
+        ],
+        "answer": "Mount Kilimanjaro"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Yamuna",
+            "Narmada",
+            "Ganga",
+            "Godavari"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": [
+            "Venice",
+            "Amsterdam",
+            "Bangkok",
+            "Hamburg"
+        ],
+        "answer": "Venice"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Madagascar",
+            "Greenland",
+            "Borneo",
+            "New Guinea"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which is the coldest continent?",
+        "options": [
+            "Europe",
+            "Asia",
+            "Antarctica",
+            "North America"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Arctic"
+    },
+    {
+        "question": "Which is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Arabian"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Danube"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which mountain is the highest in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Atlas Mountains",
+            "Table Mountain"
+        ],
+        "answer": "Mount Kilimanjaro"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Yamuna",
+            "Narmada",
+            "Ganga",
+            "Godavari"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": [
+            "Venice",
+            "Amsterdam",
+            "Bangkok",
+            "Hamburg"
+        ],
+        "answer": "Venice"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Madagascar",
+            "Greenland",
+            "Borneo",
+            "New Guinea"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which is the coldest continent?",
+        "options": [
+            "Europe",
+            "Asia",
+            "Antarctica",
+            "North America"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Arctic"
+    },
+    {
+        "question": "Which is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Arabian"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Danube"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which mountain is the highest in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Atlas Mountains",
+            "Table Mountain"
+        ],
+        "answer": "Mount Kilimanjaro"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Yamuna",
+            "Narmada",
+            "Ganga",
+            "Godavari"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": [
+            "Venice",
+            "Amsterdam",
+            "Bangkok",
+            "Hamburg"
+        ],
+        "answer": "Venice"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Madagascar",
+            "Greenland",
+            "Borneo",
+            "New Guinea"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which is the coldest continent?",
+        "options": [
+            "Europe",
+            "Asia",
+            "Antarctica",
+            "North America"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Arctic"
+    },
+    {
+        "question": "Which is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Arabian"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Danube"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which mountain is the highest in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Atlas Mountains",
+            "Table Mountain"
+        ],
+        "answer": "Mount Kilimanjaro"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Yamuna",
+            "Narmada",
+            "Ganga",
+            "Godavari"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": [
+            "Venice",
+            "Amsterdam",
+            "Bangkok",
+            "Hamburg"
+        ],
+        "answer": "Venice"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Madagascar",
+            "Greenland",
+            "Borneo",
+            "New Guinea"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which is the coldest continent?",
+        "options": [
+            "Europe",
+            "Asia",
+            "Antarctica",
+            "North America"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Arctic"
+    },
+    {
+        "question": "Which is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Perth"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Kalahari",
+            "Arabian"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Ganges",
+            "Danube"
+        ],
+        "answer": "Nile"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "Thailand",
+            "South Korea"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which mountain is the highest in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Atlas Mountains",
+            "Table Mountain"
+        ],
+        "answer": "Mount Kilimanjaro"
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Yamuna",
+            "Narmada",
+            "Ganga",
+            "Godavari"
+        ],
+        "answer": "Ganga"
+    },
+    {
+        "question": "Which city is known as the 'City of Canals'?",
+        "options": [
+            "Venice",
+            "Amsterdam",
+            "Bangkok",
+            "Hamburg"
+        ],
+        "answer": "Venice"
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "options": [
+            "Madagascar",
+            "Greenland",
+            "Borneo",
+            "New Guinea"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which is the coldest continent?",
+        "options": [
+            "Europe",
+            "Asia",
+            "Antarctica",
+            "North America"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Arctic"
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Arctic"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "Go",
+            "Gd",
+            "Au",
+            "Ag"
+        ],
+        "answer": "Au"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Quartz"
+        ],
+        "answer": "Diamond"
+    },
+    {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the pH value of pure water?",
+        "options": [
+            "5",
+            "7",
+            "8",
+            "10"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "Which organ produces insulin in the human body?",
+        "options": [
+            "Liver",
+            "Pancreas",
+            "Kidney",
+            "Stomach"
+        ],
+        "answer": "Pancreas"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+            "Earth",
+            "Saturn",
+            "Jupiter",
+            "Neptune"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which element has the atomic number 1?",
+        "options": [
+            "Helium",
+            "Hydrogen",
+            "Oxygen",
+            "Carbon"
+        ],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "options": [
+            "300,000 km/s",
+            "150,000 km/s",
+            "500,000 km/s",
+            "1,000,000 km/s"
+        ],
+        "answer": "300,000 km/s"
+    },
+    {
+        "question": "Which scientist proposed the theory of relativity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Stephen Hawking"
+        ],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the main component of the Sun?",
+        "options": [
+            "Liquid Lava",
+            "Hydrogen and Helium",
+            "Oxygen and Nitrogen",
+            "Carbon Dioxide"
+        ],
+        "answer": "Hydrogen and Helium"
+    },
+    {
+        "question": "Which blood type is known as the universal donor?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": "O"
+    },
+    {
+        "question": "What is the unit of electrical resistance?",
+        "options": [
+            "Volt",
+            "Ampere",
+            "Ohm",
+            "Watt"
+        ],
+        "answer": "Ohm"
+    },
+    {
+        "question": "Which part of the plant conducts photosynthesis?",
+        "options": [
+            "Root",
+            "Stem",
+            "Leaf",
+            "Flower"
+        ],
+        "answer": "Leaf"
+    },
+    {
+        "question": "What is the largest mammal on Earth?",
+        "options": [
+            "Elephant",
+            "Blue Whale",
+            "Giraffe",
+            "Polar Bear"
+        ],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Which vitamin is produced by the human skin in sunlight?",
+        "options": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin D"
+        ],
+        "answer": "Vitamin D"
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "options": [
+            "NaCl",
+            "H2O",
+            "CO2",
+            "C6H12O6"
+        ],
+        "answer": "NaCl"
+    },
+    {
+        "question": "Which gas do plants absorb during photosynthesis?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": [
+            "50°C",
+            "75°C",
+            "100°C",
+            "120°C"
+        ],
+        "answer": "100°C"
+    },
+    {
+        "question": "Which scientist discovered penicillin?",
+        "options": [
+            "Marie Curie",
+            "Alexander Fleming",
+            "Louis Pasteur",
+            "Robert Koch"
+        ],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "What is the smallest unit of matter?",
+        "options": [
+            "Cell",
+            "Atom",
+            "Molecule",
+            "Electron"
+        ],
+        "answer": "Atom"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the human body's largest organ?",
+        "options": [
+            "Liver",
+            "Brain",
+            "Skin",
+            "Heart"
+        ],
+        "answer": "Skin"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "options": [
+            "Iron",
+            "Gold",
+            "Mercury",
+            "Aluminum"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the study of fossils called?",
+        "options": [
+            "Geology",
+            "Paleontology",
+            "Archaeology",
+            "Meteorology"
+        ],
+        "answer": "Paleontology"
+    },
+    {
+        "question": "Which force keeps planets in orbit around the Sun?",
+        "options": [
+            "Electromagnetic Force",
+            "Gravitational Force",
+            "Nuclear Force",
+            "Frictional Force"
+        ],
+        "answer": "Gravitational Force"
+    },
+    {
+        "question": "What is the main gas responsible for global warming?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "Which part of the brain controls balance?",
+        "options": [
+            "Cerebrum",
+            "Cerebellum",
+            "Medulla",
+            "Hypothalamus"
+        ],
+        "answer": "Cerebellum"
+    },
+    {
+        "question": "What is the freezing point of water in Fahrenheit?",
+        "options": [
+            "0°F",
+            "32°F",
+            "100°F",
+            "212°F"
+        ],
+        "answer": "32°F"
+    },
+    {
+        "question": "Which element is essential for making bones and teeth?",
+        "options": [
+            "Iron",
+            "Calcium",
+            "Sodium",
+            "Potassium"
+        ],
+        "answer": "Calcium"
+    },
+    {
+        "question": "What is the chemical formula for ozone?",
+        "options": [
+            "O2",
+            "O3",
+            "CO2",
+            "H2O"
+        ],
+        "answer": "O3"
+    },
+    {
+        "question": "Which scientist is known as the father of modern physics?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the largest organ inside the human body?",
+        "options": [
+            "Heart",
+            "Brain",
+            "Liver",
+            "Lungs"
+        ],
+        "answer": "Liver"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": [
+            "Venus",
+            "Earth",
+            "Mercury",
+            "Mars"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the main component of natural gas?",
+        "options": [
+            "Propane",
+            "Butane",
+            "Methane",
+            "Ethane"
+        ],
+        "answer": "Methane"
+    },
+    {
+        "question": "Which blood type is known as the universal recipient?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": "AB"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Watt",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton"
+    },
+    {
+        "question": "Which gas is used in balloons to make them float?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Helium",
+            "Nitrogen"
+        ],
+        "answer": "Helium"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "options": [
+            "Femur",
+            "Tibia",
+            "Humerus",
+            "Skull"
+        ],
+        "answer": "Femur"
+    },
+    {
+        "question": "Which subatomic particle has a positive charge?",
+        "options": [
+            "Electron",
+            "Neutron",
+            "Proton",
+            "Photon"
+        ],
+        "answer": "Proton"
+    },
+    {
+        "question": "What is the study of earthquakes called?",
+        "options": [
+            "Meteorology",
+            "Geology",
+            "Seismology",
+            "Volcanology"
+        ],
+        "answer": "Seismology"
+    },
+    {
+        "question": "Which vitamin is also known as ascorbic acid?",
+        "options": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin D"
+        ],
+        "answer": "Vitamin C"
+    },
+    {
+        "question": "What is the chemical symbol for sodium?",
+        "options": [
+            "So",
+            "Sd",
+            "Na",
+            "No"
+        ],
+        "answer": "Na"
+    },
+    {
+        "question": "Which planet has the Great Red Spot?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Neptune"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the process by which plants make their own food?",
+        "options": [
+            "Respiration",
+            "Transpiration",
+            "Photosynthesis",
+            "Digestion"
+        ],
+        "answer": "Photosynthesis"
+    },
+    {
+        "question": "Which metal is the best conductor of electricity?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Aluminum",
+            "Gold"
+        ],
+        "answer": "Copper"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "options": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "O2"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "question": "Which scientist formulated the laws of motion?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Stephen Hawking"
+        ],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": [
+            "Sahara",
+            "Gobi",
+            "Antarctica",
+            "Arabian"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which gas is known as laughing gas?",
+        "options": [
+            "Oxygen",
+            "Nitrous Oxide",
+            "Carbon Dioxide",
+            "Methane"
+        ],
+        "answer": "Nitrous Oxide"
+    },
+    {
+        "question": "What is the main function of red blood cells?",
+        "options": [
+            "Fight Infection",
+            "Transport Oxygen",
+            "Digest Food",
+            "Produce Hormones"
+        ],
+        "answer": "Transport Oxygen"
+    },
+    {
+        "question": "Which planet is known as the Evening Star?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "options": [
+            "Ir",
+            "Fe",
+            "In",
+            "Fi"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "question": "Which organ filters blood in the human body?",
+        "options": [
+            "Heart",
+            "Liver",
+            "Kidney",
+            "Lungs"
+        ],
+        "answer": "Kidney"
+    },
+    {
+        "question": "What is the unit of frequency?",
+        "options": [
+            "Hertz",
+            "Decibel",
+            "Watt",
+            "Ohm"
+        ],
+        "answer": "Hertz"
+    },
+    {
+        "question": "Which layer of the Earth is the thinnest?",
+        "options": [
+            "Crust",
+            "Mantle",
+            "Outer Core",
+            "Inner Core"
+        ],
+        "answer": "Crust"
+    },
+    {
+        "question": "What is the chemical symbol for potassium?",
+        "options": [
+            "Pt",
+            "Po",
+            "K",
+            "Ka"
+        ],
+        "answer": "K"
+    },
+    {
+        "question": "Which gland is known as the master gland?",
+        "options": [
+            "Thyroid",
+            "Pituitary",
+            "Adrenal",
+            "Pancreas"
+        ],
+        "answer": "Pituitary"
+    },
+    {
+        "question": "What is the study of heredity called?",
+        "options": [
+            "Ecology",
+            "Genetics",
+            "Microbiology",
+            "Zoology"
+        ],
+        "answer": "Genetics"
+    },
+    {
+        "question": "Which gas is essential for combustion?",
+        "options": [
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What is the chemical symbol for silver?",
+        "options": [
+            "Si",
+            "Sv",
+            "Ag",
+            "Sl"
+        ],
+        "answer": "Ag"
+    },
+    {
+        "question": "Which planet has the most prominent rings?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the main component of the Earth's core?",
+        "options": [
+            "Nickel and Iron",
+            "Silicon and Oxygen",
+            "Magnesium and Aluminum",
+            "Calcium and Potassium"
+        ],
+        "answer": "Nickel and Iron"
+    },
+    {
+        "question": "Which vitamin is essential for blood clotting?",
+        "options": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin K"
+        ],
+        "answer": "Vitamin K"
+    },
+    {
+        "question": "What is the chemical symbol for carbon?",
+        "options": [
+            "Ca",
+            "Co",
+            "C",
+            "Cr"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which part of the cell is known as the powerhouse?",
+        "options": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondria",
+            "Golgi Apparatus"
+        ],
+        "answer": "Mitochondria"
+    },
+    {
+        "question": "What is the unit of electric current?",
+        "options": [
+            "Volt",
+            "Ampere",
+            "Ohm",
+            "Watt"
+        ],
+        "answer": "Ampere"
+    },
+    {
+        "question": "Which metal is used in thermometers?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Mercury",
+            "Aluminum"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the chemical formula for methane?",
+        "options": [
+            "CH4",
+            "CO2",
+            "H2O",
+            "NH3"
+        ],
+        "answer": "CH4"
+    },
+    {
+        "question": "Which scientist discovered gravity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "What is the largest moon in the solar system?",
+        "options": [
+            "Moon (Earth)",
+            "Titan (Saturn)",
+            "Ganymede (Jupiter)",
+            "Europa (Jupiter)"
+        ],
+        "answer": "Ganymede (Jupiter)"
+    },
+    {
+        "question": "Which gas is responsible for the ozone layer?",
+        "options": [
+            "Oxygen",
+            "Ozone (O3)",
+            "Carbon Dioxide",
+            "Nitrogen"
+        ],
+        "answer": "Ozone (O3)"
+    },
+    {
+        "question": "What is the chemical symbol for lead?",
+        "options": [
+            "Le",
+            "Ld",
+            "Pb",
+            "Pl"
+        ],
+        "answer": "Pb"
+    },
+    {
+        "question": "Which part of the eye controls the amount of light entering?",
+        "options": [
+            "Cornea",
+            "Retina",
+            "Iris",
+            "Lens"
+        ],
+        "answer": "Iris"
+    },
+    {
+        "question": "What is the chemical symbol for nitrogen?",
+        "options": [
+            "Ni",
+            "Ng",
+            "N",
+            "No"
+        ],
+        "answer": "N"
+    },
+    {
+        "question": "Which planet is the hottest in our solar system?",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the chemical formula for sulfuric acid?",
+        "options": [
+            "H2SO4",
+            "HCl",
+            "HNO3",
+            "H3PO4"
+        ],
+        "answer": "H2SO4"
+    },
+    {
+        "question": "Which organ produces bile?",
+        "options": [
+            "Pancreas",
+            "Stomach",
+            "Liver",
+            "Gallbladder"
+        ],
+        "answer": "Liver"
+    },
+    {
+        "question": "What is the chemical symbol for uranium?",
+        "options": [
+            "Ur",
+            "Um",
+            "U",
+            "Un"
+        ],
+        "answer": "U"
+    },
+    {
+        "question": "What is the chemical formula for ammonia?",
+        "options": [
+            "NH3",
+            "NO2",
+            "N2O",
+            "H2O2"
+        ],
+        "answer": "NH3"
+    },
+    {
+        "question": "Which scientist discovered radioactivity?",
+        "options": [
+            "Marie Curie",
+            "Ernest Rutherford",
+            "Niels Bohr",
+            "Henri Becquerel"
+        ],
+        "answer": "Henri Becquerel"
+    },
+    {
+        "question": "What is the chemical symbol for calcium?",
+        "options": [
+            "Cl",
+            "Cm",
+            "Ca",
+            "Cu"
+        ],
+        "answer": "Ca"
+    },
+    {
+        "question": "Which planet is known as the 'Ice Giant'?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+        ],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the chemical formula for glucose?",
+        "options": [
+            "C6H12O6",
+            "C12H22O11",
+            "CO2",
+            "H2O"
+        ],
+        "answer": "C6H12O6"
+    },
+    {
+        "question": "Which part of the plant absorbs water and nutrients?",
+        "options": [
+            "Leaves",
+            "Stem",
+            "Roots",
+            "Flowers"
+        ],
+        "answer": "Roots"
+    },
+    {
+        "question": "What is the chemical symbol for helium?",
+        "options": [
+            "H",
+            "He",
+            "Hl",
+            "Hu"
+        ],
+        "answer": "He"
+    },
+    {
+        "question": "What is the chemical formula for hydrogen peroxide?",
+        "options": [
+            "H2O",
+            "HO2",
+            "H2O2",
+            "H3O"
+        ],
+        "answer": "H2O2"
+    },
+    {
+        "question": "Which scientist proposed the heliocentric model?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nicolaus Copernicus",
+            "Johannes Kepler"
+        ],
+        "answer": "Nicolaus Copernicus"
+    },
+    {
+        "question": "What is the chemical symbol for magnesium?",
+        "options": [
+            "Ma",
+            "Mg",
+            "Mn",
+            "Ms"
+        ],
+        "answer": "Mg"
+    },
+    {
+        "question": "Which planet has the longest day?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Venus",
+            "Jupiter"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the chemical formula for carbon monoxide?",
+        "options": [
+            "CO",
+            "CO2",
+            "C2O",
+            "CH4"
+        ],
+        "answer": "CO"
+    },
+    {
+        "question": "Which part of the human brain is responsible for memory?",
+        "options": [
+            "Cerebrum",
+            "Cerebellum",
+            "Hippocampus",
+            "Medulla"
+        ],
+        "answer": "Hippocampus"
+    },
+    {
+        "question": "What is the chemical symbol for chlorine?",
+        "options": [
+            "Ch",
+            "Cl",
+            "Cn",
+            "Co"
+        ],
+        "answer": "Cl"
+    },
+    {
+        "question": "What is the chemical formula for nitric acid?",
+        "options": [
+            "HNO3",
+            "HCl",
+            "H2SO4",
+            "H3PO4"
+        ],
+        "answer": "HNO3"
+    },
+    {
+        "question": "Which scientist discovered X-rays?",
+        "options": [
+            "Marie Curie",
+            "Wilhelm Roentgen",
+            "Max Planck",
+            "Ernest Rutherford"
+        ],
+        "answer": "Wilhelm Roentgen"
+    },
+    {
+        "question": "What is the chemical symbol for sulfur?",
+        "options": [
+            "Su",
+            "Sl",
+            "S",
+            "Sr"
+        ],
+        "answer": "S"
+    },
+    {
+        "question": "Which planet has the fastest rotation?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the chemical formula for propane?",
+        "options": [
+            "C3H8",
+            "CH4",
+            "C2H6",
+            "C4H10"
+        ],
+        "answer": "C3H8"
+    },
+    {
+        "question": "What is the chemical symbol for zinc?",
+        "options": [
+            "Zi",
+            "Zn",
+            "Zc",
+            "Z"
+        ],
+        "answer": "Zn"
+    },
+    {
+        "question": "Which gas is known as 'marsh gas'?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Methane",
+            "Nitrogen"
+        ],
+        "answer": "Methane"
+    },
+    {
+        "question": "What is the chemical formula for ethanol?",
+        "options": [
+            "CH3OH",
+            "C2H5OH",
+            "C6H12O6",
+            "H2O"
+        ],
+        "answer": "C2H5OH"
+    },
+    {
+        "question": "Which scientist discovered the electron?",
+        "options": [
+            "Ernest Rutherford",
+            "J.J. Thomson",
+            "Niels Bohr",
+            "James Chadwick"
+        ],
+        "answer": "J.J. Thomson"
+    },
+    {
+        "question": "What is the chemical symbol for phosphorus?",
+        "options": [
+            "Ph",
+            "P",
+            "Ps",
+            "Po"
+        ],
+        "answer": "P"
+    },
+    {
+        "question": "Which planet has the most extreme seasons?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Uranus",
+            "Neptune"
+        ],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the chemical formula for acetic acid?",
+        "options": [
+            "CH3COOH",
+            "HCl",
+            "H2SO4",
+            "HNO3"
+        ],
+        "answer": "CH3COOH"
+    },
+    {
+        "question": "Which part of the human eye detects color?",
+        "options": [
+            "Cornea",
+            "Retina",
+            "Iris",
+            "Lens"
+        ],
+        "answer": "Retina"
+    },
+    {
+        "question": "What is the chemical symbol for silicon?",
+        "options": [
+            "Sl",
+            "Si",
+            "Sn",
+            "Sc"
+        ],
+        "answer": "Si"
+    },
+    {
+        "question": "Which gas is used in fluorescent lights?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Argon",
+            "Helium"
+        ],
+        "answer": "Argon"
+    },
+    {
+        "question": "What is the chemical formula for butane?",
+        "options": [
+            "C2H6",
+            "C3H8",
+            "C4H10",
+            "CH4"
+        ],
+        "answer": "C4H10"
+    },
+    {
+        "question": "Which scientist discovered the neutron?",
+        "options": [
+            "Ernest Rutherford",
+            "J.J. Thomson",
+            "Niels Bohr",
+            "James Chadwick"
+        ],
+        "answer": "James Chadwick"
+    },
+    {
+        "question": "What is the chemical symbol for cobalt?",
+        "options": [
+            "Cb",
+            "Co",
+            "Ct",
+            "Cl"
+        ],
+        "answer": "Co"
+    },
+    {
+        "question": "Which planet has the most elliptical orbit?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Mercury",
+            "Pluto"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the chemical formula for citric acid?",
+        "options": [
+            "C6H8O7",
+            "C3H6O3",
+            "C2H4O2",
+            "C12H22O11"
+        ],
+        "answer": "C6H8O7"
+    },
+    {
+        "question": "Which part of the human body produces tears?",
+        "options": [
+            "Eyelids",
+            "Tear Glands",
+            "Cornea",
+            "Retina"
+        ],
+        "answer": "Tear Glands"
+    },
+    {
+        "question": "What is the chemical symbol for nickel?",
+        "options": [
+            "Nk",
+            "Ni",
+            "Nl",
+            "Nc"
+        ],
+        "answer": "Ni"
+    },
+    {
+        "question": "What is the chemical formula for glycerol?",
+        "options": [
+            "C3H8O3",
+            "C2H6O2",
+            "CH4O",
+            "C6H12O6"
+        ],
+        "answer": "C3H8O3"
+    },
+    {
+        "question": "Who was the first Prime Minister of independent India?",
+        "options": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Sardar Patel",
+            "Rajendra Prasad"
+        ],
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "question": "The Indus Valley Civilization flourished around which time period?",
+        "options": [
+            "1000-500 BCE",
+            "2500-1500 BCE",
+            "500-200 BCE",
+            "3000-2500 BCE"
+        ],
+        "answer": "2500-1500 BCE"
+    },
+    {
+        "question": "Which Mughal emperor built the Taj Mahal?",
+        "options": [
+            "Akbar",
+            "Shah Jahan",
+            "Aurangzeb",
+            "Jahangir"
+        ],
+        "answer": "Shah Jahan"
+    },
+    {
+        "question": "The First War of Indian Independence took place in which year?",
+        "options": [
+            "1857",
+            "1947",
+            "1757",
+            "1919"
+        ],
+        "answer": "1857"
+    },
+    {
+        "question": "Who composed the Indian national anthem 'Jana Gana Mana'?",
+        "options": [
+            "Bankim Chandra Chatterjee",
+            "Rabindranath Tagore",
+            "Subhash Chandra Bose",
+            "Ishwar Chandra Vidyasagar"
+        ],
+        "answer": "Rabindranath Tagore"
+    },
+    {
+        "question": "The ancient university of Nalanda was located in which present-day Indian state?",
+        "options": [
+            "Bihar",
+            "Uttar Pradesh",
+            "Gujarat",
+            "Tamil Nadu"
+        ],
+        "answer": "Bihar"
+    },
+    {
+        "question": "Who was the first woman Prime Minister of India?",
+        "options": [
+            "Indira Gandhi",
+            "Sarojini Naidu",
+            "Pratibha Patil",
+            "Vijaya Lakshmi Pandit"
+        ],
+        "answer": "Indira Gandhi"
+    },
+    {
+        "question": "The ancient text 'Arthashastra' was written by:",
+        "options": [
+            "Chanakya",
+            "Kalidas",
+            "Panini",
+            "Aryabhata"
+        ],
+        "answer": "Chanakya"
+    },
+    {
+        "question": "The partition of India occurred in which year?",
+        "options": [
+            "1947",
+            "1950",
+            "1935",
+            "1965"
+        ],
+        "answer": "1947"
+    },
+    {
+        "question": "Who founded the Maurya Empire?",
+        "options": [
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Bindusara",
+            "Samudragupta"
+        ],
+        "answer": "Chandragupta Maurya"
+    },
+    {
+        "question": "The 'Dandi March' was associated with which movement?",
+        "options": [
+            "Non-Cooperation Movement",
+            "Quit India Movement",
+            "Civil Disobedience Movement",
+            "Swadeshi Movement"
+        ],
+        "answer": "Civil Disobedience Movement"
+    },
+    {
+        "question": "Who was known as the 'Father of Indian Constitution'?",
+        "options": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "B.R. Ambedkar",
+            "Sardar Patel"
+        ],
+        "answer": "B.R. Ambedkar"
+    },
+    {
+        "question": "The ancient city of Pataliputra is located in which modern city?",
+        "options": [
+            "Delhi",
+            "Patna",
+            "Varanasi",
+            "Kolkata"
+        ],
+        "answer": "Patna"
+    },
+    {
+        "question": "Who was the first President of India?",
+        "options": [
+            "Rajendra Prasad",
+            "S. Radhakrishnan",
+            "Zakir Hussain",
+            "V.V. Giri"
+        ],
+        "answer": "Rajendra Prasad"
+    },
+    {
+        "question": "The Battle of Plassey was fought in which year?",
+        "options": [
+            "1757",
+            "1857",
+            "1764",
+            "1748"
+        ],
+        "answer": "1757"
+    },
+    {
+        "question": "Which dynasty built the Khajuraho temples?",
+        "options": [
+            "Gupta",
+            "Chola",
+            "Chandela",
+            "Pallava"
+        ],
+        "answer": "Chandela"
+    },
+    {
+        "question": "The 'Doctrine of Lapse' was introduced by which British Governor-General?",
+        "options": [
+            "Lord Dalhousie",
+            "Lord Curzon",
+            "Lord Mountbatten",
+            "Lord Wellesley"
+        ],
+        "answer": "Lord Dalhousie"
+    },
+    {
+        "question": "Who was the first Indian woman to become President of the Indian National Congress?",
+        "options": [
+            "Sarojini Naidu",
+            "Annie Besant",
+            "Indira Gandhi",
+            "Vijaya Lakshmi Pandit"
+        ],
+        "answer": "Annie Besant"
+    },
+    {
+        "question": "The ancient port city of Lothal is associated with which civilization?",
+        "options": [
+            "Indus Valley",
+            "Mauryan",
+            "Gupta",
+            "Chola"
+        ],
+        "answer": "Indus Valley"
+    },
+    {
+        "question": "Who wrote the book 'Discovery of India'?",
+        "options": [
+            "Mahatma Gandhi",
+            "Jawaharlal Nehru",
+            "Rabindranath Tagore",
+            "Bankim Chandra Chatterjee"
+        ],
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "question": "The famous 'Jallianwala Bagh massacre' occurred in which year?",
+        "options": [
+            "1919",
+            "1929",
+            "1942",
+            "1930"
+        ],
+        "answer": "1919"
+    },
+    {
+        "question": "Which ruler built the famous Konark Sun Temple?",
+        "options": [
+            "Narasimhadeva I",
+            "Rajendra Chola",
+            "Harshavardhana",
+            "Krishnadevaraya"
+        ],
+        "answer": "Narasimhadeva I"
+    },
+    {
+        "question": "The 'Permanent Settlement' system was introduced in India by:",
+        "options": [
+            "Lord Cornwallis",
+            "Lord Wellesley",
+            "Lord Dalhousie",
+            "Lord Bentinck"
+        ],
+        "answer": "Lord Cornwallis"
+    },
+    {
+        "question": "Who was the last Viceroy of India?",
+        "options": [
+            "Lord Mountbatten",
+            "Lord Wavell",
+            "Lord Linlithgow",
+            "Lord Irwin"
+        ],
+        "answer": "Lord Mountbatten"
+    },
+    {
+        "question": "The ancient university of Vikramshila was established by which ruler?",
+        "options": [
+            "Ashoka",
+            "Harsha",
+            "Dharmapala",
+            "Chandragupta II"
+        ],
+        "answer": "Dharmapala"
+    },
+    {
+        "question": "Who was known as the 'Lion of Punjab'?",
+        "options": [
+            "Bhagat Singh",
+            "Lala Lajpat Rai",
+            "Bal Gangadhar Tilak",
+            "Subhash Chandra Bose"
+        ],
+        "answer": "Lala Lajpat Rai"
+    },
+    {
+        "question": "The 'Quit India Movement' was launched in which year?",
+        "options": [
+            "1942",
+            "1930",
+            "1920",
+            "1947"
+        ],
+        "answer": "1942"
+    },
+    {
+        "question": "Which ruler built the famous Qutub Minar?",
+        "options": [
+            "Qutb-ud-din Aibak",
+            "Alauddin Khilji",
+            "Sher Shah Suri",
+            "Akbar"
+        ],
+        "answer": "Qutb-ud-din Aibak"
+    },
+    {
+        "question": "The 'Rowlatt Act' was passed in which year?",
+        "options": [
+            "1919",
+            "1929",
+            "1935",
+            "1942"
+        ],
+        "answer": "1919"
+    },
+    {
+        "question": "Who was the founder of the Gupta Empire?",
+        "options": [
+            "Chandragupta I",
+            "Samudragupta",
+            "Chandragupta II",
+            "Skandagupta"
+        ],
+        "answer": "Chandragupta I"
+    },
+    {
+        "question": "The 'Simon Commission' came to India in which year?",
+        "options": [
+            "1927",
+            "1930",
+            "1935",
+            "1942"
+        ],
+        "answer": "1927"
+    },
+    {
+        "question": "Who was the first Indian to win the Nobel Prize?",
+        "options": [
+            "Rabindranath Tagore",
+            "C.V. Raman",
+            "Mother Teresa",
+            "Hargobind Khorana"
+        ],
+        "answer": "Rabindranath Tagore"
+    },
+    {
+        "question": "The 'Battle of Haldighati' was fought between:",
+        "options": [
+            "Akbar and Rana Pratap",
+            "Sher Shah and Humayun",
+            "Shivaji and Aurangzeb",
+            "Tipu Sultan and British"
+        ],
+        "answer": "Akbar and Rana Pratap"
+    },
+    {
+        "question": "Who built the famous Brihadeeswarar Temple in Thanjavur?",
+        "options": [
+            "Rajaraja Chola I",
+            "Krishnadevaraya",
+            "Pulakeshin II",
+            "Harshavardhana"
+        ],
+        "answer": "Rajaraja Chola I"
+    },
+    {
+        "question": "The 'Champaran Satyagraha' was associated with:",
+        "options": [
+            "Indigo Planters",
+            "Salt Tax",
+            "Cotton Mill Workers",
+            "Land Revenue"
+        ],
+        "answer": "Indigo Planters"
+    },
+    {
+        "question": "Who was the first woman Governor of an Indian state?",
+        "options": [
+            "Indira Gandhi",
+            "Sarojini Naidu",
+            "Vijaya Lakshmi Pandit",
+            "Pratibha Patil"
+        ],
+        "answer": "Sarojini Naidu"
+    },
+    {
+        "question": "The 'Treaty of Seringapatam' ended which war?",
+        "options": [
+            "First Anglo-Mysore War",
+            "Second Anglo-Mysore War",
+            "Third Anglo-Mysore War",
+            "Fourth Anglo-Mysore War"
+        ],
+        "answer": "Third Anglo-Mysore War"
+    },
+    {
+        "question": "Who founded the city of Jaipur?",
+        "options": [
+            "Raja Man Singh",
+            "Sawai Jai Singh II",
+            "Prithviraj Chauhan",
+            "Rana Sanga"
+        ],
+        "answer": "Sawai Jai Singh II"
+    },
+    {
+        "question": "The 'Poona Pact' was signed between Mahatma Gandhi and:",
+        "options": [
+            "Jawaharlal Nehru",
+            "B.R. Ambedkar",
+            "Subhash Chandra Bose",
+            "Sardar Patel"
+        ],
+        "answer": "B.R. Ambedkar"
+    },
+    {
+        "question": "Who was the first Indian to travel to space?",
+        "options": [
+            "Kalpana Chawla",
+            "Rakesh Sharma",
+            "Sunita Williams",
+            "Ravish Malhotra"
+        ],
+        "answer": "Rakesh Sharma"
+    },
+    {
+        "question": "The 'Battle of Buxar' was fought in which year?",
+        "options": [
+            "1757",
+            "1764",
+            "1857",
+            "1799"
+        ],
+        "answer": "1764"
+    },
+    {
+        "question": "Who built the famous Gol Gumbaz?",
+        "options": [
+            "Adil Shahi dynasty",
+            "Qutb Shahi dynasty",
+            "Bahmani Sultanate",
+            "Mughals"
+        ],
+        "answer": "Adil Shahi dynasty"
+    },
+    {
+        "question": "The 'Kakori Conspiracy' took place in which year?",
+        "options": [
+            "1919",
+            "1925",
+            "1930",
+            "1942"
+        ],
+        "answer": "1925"
+    },
+    {
+        "question": "Who was the founder of the Sikh Empire?",
+        "options": [
+            "Guru Nanak",
+            "Guru Gobind Singh",
+            "Maharaja Ranjit Singh",
+            "Banda Singh Bahadur"
+        ],
+        "answer": "Maharaja Ranjit Singh"
+    },
+    {
+        "question": "The 'Aligarh Movement' was started by:",
+        "options": [
+            "Sir Syed Ahmed Khan",
+            "Maulana Abul Kalam Azad",
+            "Badruddin Tyabji",
+            "Mohammad Ali Jinnah"
+        ],
+        "answer": "Sir Syed Ahmed Khan"
+    },
+    {
+        "question": "Who was the first Indian woman to climb Mount Everest?",
+        "options": [
+            "Bachendri Pal",
+            "Santosh Yadav",
+            "Arunima Sinha",
+            "Premlata Agarwal"
+        ],
+        "answer": "Bachendri Pal"
+    },
+    {
+        "question": "The 'Battle of Wandiwash' was fought between:",
+        "options": [
+            "British and French",
+            "British and Portuguese",
+            "British and Dutch",
+            "British and Mysore"
+        ],
+        "answer": "British and French"
+    },
+    {
+        "question": "Who built the famous Charminar in Hyderabad?",
+        "options": [
+            "Quli Qutb Shah",
+            "Aurangzeb",
+            "Tipu Sultan",
+            "Nizam-ul-Mulk"
+        ],
+        "answer": "Quli Qutb Shah"
+    },
+    {
+        "question": "The 'Cabinet Mission Plan' was proposed in which year?",
+        "options": [
+            "1942",
+            "1945",
+            "1946",
+            "1947"
+        ],
+        "answer": "1946"
+    },
+    {
+        "question": "Who was the first Indian to become President of the Indian National Congress?",
+        "options": [
+            "Dadabhai Naoroji",
+            "W.C. Bonnerjee",
+            "Badruddin Tyabji",
+            "Surendranath Banerjee"
+        ],
+        "answer": "W.C. Bonnerjee"
+    },
+    {
+        "question": "The 'Battle of Talikota' was fought in which year?",
+        "options": [
+            "1526",
+            "1556",
+            "1565",
+            "1605"
+        ],
+        "answer": "1565"
+    },
+    {
+        "question": "Who built the famous Sanchi Stupa?",
+        "options": [
+            "Ashoka",
+            "Kanishka",
+            "Harsha",
+            "Chandragupta II"
+        ],
+        "answer": "Ashoka"
+    },
+    {
+        "question": "The 'August Offer' was made by the British in which year?",
+        "options": [
+            "1935",
+            "1940",
+            "1942",
+            "1945"
+        ],
+        "answer": "1940"
+    },
+    {
+        "question": "Who was the first Indian to receive the Bharat Ratna award?",
+        "options": [
+            "Jawaharlal Nehru",
+            "C. Rajagopalachari",
+            "S. Radhakrishnan",
+            "B.C. Roy"
+        ],
+        "answer": "C. Rajagopalachari"
+    },
+    {
+        "question": "The 'Treaty of Bassein' was signed between the British and:",
+        "options": [
+            "Peshwa Bajirao II",
+            "Tipu Sultan",
+            "Nizam of Hyderabad",
+            "Maharaja Ranjit Singh"
+        ],
+        "answer": "Peshwa Bajirao II"
+    },
+    {
+        "question": "Who founded the Indian National Army (INA)?",
+        "options": [
+            "Subhash Chandra Bose",
+            "Rash Behari Bose",
+            "Bhagat Singh",
+            "Chandrashekhar Azad"
+        ],
+        "answer": "Subhash Chandra Bose"
+    },
+    {
+        "question": "The 'Battle of Chausa' was fought between:",
+        "options": [
+            "Babur and Ibrahim Lodi",
+            "Humayun and Sher Shah Suri",
+            "Akbar and Hemu",
+            "Aurangzeb and Shivaji"
+        ],
+        "answer": "Humayun and Sher Shah Suri"
+    },
+    {
+        "question": "Who built the famous Hawa Mahal in Jaipur?",
+        "options": [
+            "Raja Man Singh",
+            "Sawai Pratap Singh",
+            "Sawai Jai Singh II",
+            "Maharaja Ram Singh"
+        ],
+        "answer": "Sawai Pratap Singh"
+    },
+    {
+        "question": "The 'Moplah Rebellion' occurred in which year?",
+        "options": [
+            "1919",
+            "1921",
+            "1930",
+            "1942"
+        ],
+        "answer": "1921"
+    },
+    {
+        "question": "Who was the first Indian woman to win an Olympic medal?",
+        "options": [
+            "P.T. Usha",
+            "Karnam Malleswari",
+            "Mary Kom",
+            "Saina Nehwal"
+        ],
+        "answer": "Karnam Malleswari"
+    },
+    {
+        "question": "The 'Battle of Karnal' was fought between:",
+        "options": [
+            "Mughals and Marathas",
+            "Mughals and British",
+            "Mughals and Persians",
+            "Mughals and Afghans"
+        ],
+        "answer": "Mughals and Persians"
+    },
+    {
+        "question": "Who built the famous Meenakshi Temple in Madurai?",
+        "options": [
+            "Cholas",
+            "Pandyas",
+            "Vijayanagara rulers",
+            "Nayakas"
+        ],
+        "answer": "Nayakas"
+    },
+    {
+        "question": "The 'Wavell Plan' was proposed in which year?",
+        "options": [
+            "1942",
+            "1945",
+            "1946",
+            "1947"
+        ],
+        "answer": "1945"
+    },
+    {
+        "question": "Who was the first Indian to win an individual Olympic gold medal?",
+        "options": [
+            "Dhyan Chand",
+            "K.D. Jadhav",
+            "Abhinav Bindra",
+            "Neeraj Chopra"
+        ],
+        "answer": "Abhinav Bindra"
+    },
+    {
+        "question": "The 'Battle of Chanderi' was fought between:",
+        "options": [
+            "Babur and Rana Sanga",
+            "Akbar and Rana Pratap",
+            "Sher Shah and Humayun",
+            "Aurangzeb and Shivaji"
+        ],
+        "answer": "Babur and Rana Sanga"
+    },
+    {
+        "question": "Who built the famous Ranakpur Jain Temple?",
+        "options": [
+            "Kumarapala",
+            "Rana Kumbha",
+            "Maharana Pratap",
+            "Rana Sanga"
+        ],
+        "answer": "Rana Kumbha"
+    },
+    {
+        "question": "The 'Cripps Mission' came to India in which year?",
+        "options": [
+            "1940",
+            "1942",
+            "1945",
+            "1946"
+        ],
+        "answer": "1942"
+    },
+    {
+        "question": "Who was the first Indian woman to win the Booker Prize?",
+        "options": [
+            "Arundhati Roy",
+            "Kiran Desai",
+            "Salman Rushdie",
+            "V.S. Naipaul"
+        ],
+        "answer": "Arundhati Roy"
+    },
+    {
+        "question": "The 'Battle of Ghaghra' was fought between:",
+        "options": [
+            "Babur and Afghans",
+            "Humayun and Sher Shah",
+            "Akbar and Hemu",
+            "Aurangzeb and Shivaji"
+        ],
+        "answer": "Babur and Afghans"
+    },
+    {
+        "question": "Who built the famous Dilwara Temples in Mount Abu?",
+        "options": [
+            "Solankis",
+            "Chauhans",
+            "Parmaras",
+            "Guhilas"
+        ],
+        "answer": "Solankis"
+    },
+    {
+        "question": "The 'Montagu-Chelmsford Reforms' were introduced in which year?",
+        "options": [
+            "1909",
+            "1919",
+            "1935",
+            "1947"
+        ],
+        "answer": "1919"
+    },
+    {
+        "question": "Who was the first Indian woman to win an Asian Games gold medal?",
+        "options": [
+            "P.T. Usha",
+            "Kamaljit Sandhu",
+            "Shiny Abraham",
+            "M.L. Valsamma"
+        ],
+        "answer": "Kamaljit Sandhu"
+    },
+    {
+        "question": "The 'Battle of Dharmat' was fought between:",
+        "options": [
+            "Aurangzeb and Dara Shikoh",
+            "Shah Jahan and Jahangir",
+            "Akbar and Hemu",
+            "Babur and Ibrahim Lodi"
+        ],
+        "answer": "Aurangzeb and Dara Shikoh"
+    },
+    {
+        "question": "Who built the famous Lingaraja Temple in Bhubaneswar?",
+        "options": [
+            "Gangas",
+            "Cholas",
+            "Pallavas",
+            "Chalukyas"
+        ],
+        "answer": "Gangas"
+    },
+    {
+        "question": "The 'Morley-Minto Reforms' were introduced in which year?",
+        "options": [
+            "1909",
+            "1919",
+            "1935",
+            "1947"
+        ],
+        "answer": "1909"
+    },
+    {
+        "question": "Who was the first Indian woman to win a World Championship in badminton?",
+        "options": [
+            "Saina Nehwal",
+            "P.V. Sindhu",
+            "Prakash Padukone",
+            "Gopichand"
+        ],
+        "answer": "P.V. Sindhu"
+    },
+    {
+        "question": "The 'Battle of Saraighat' was fought between:",
+        "options": [
+            "Mughals and Ahoms",
+            "British and French",
+            "Marathas and Nizam",
+            "Sikhs and Afghans"
+        ],
+        "answer": "Mughals and Ahoms"
+    },
+    {
+        "question": "Who built the famous Sun Temple at Modhera?",
+        "options": [
+            "Solankis",
+            "Chauhans",
+            "Parmaras",
+            "Guhilas"
+        ],
+        "answer": "Solankis"
+    },
+    {
+        "question": "The 'Indian Councils Act of 1861' was significant because:",
+        "options": [
+            "It introduced elections in India",
+            "It established Indian representation in councils",
+            "It created separate electorates",
+            "It granted Dominion status"
+        ],
+        "answer": "It established Indian representation in councils"
+    },
+    {
+        "question": "Who was the first Indian woman to win a medal in World Athletics Championships?",
+        "options": [
+            "P.T. Usha",
+            "Anju Bobby George",
+            "Hima Das",
+            "Dutee Chand"
+        ],
+        "answer": "Anju Bobby George"
+    },
+    {
+        "question": "The 'Battle of Tukaroi' was fought between:",
+        "options": [
+            "Mughals and Afghans",
+            "Mughals and Bengalis",
+            "British and French",
+            "Marathas and Nizam"
+        ],
+        "answer": "Mughals and Bengalis"
+    },
+    {
+        "question": "Who built the famous Jagannath Temple in Puri?",
+        "options": [
+            "Gangas",
+            "Cholas",
+            "Pallavas",
+            "Chalukyas"
+        ],
+        "answer": "Gangas"
+    },
+    {
+        "question": "The 'Regulating Act of 1773' was significant because:",
+        "options": [
+            "It established British Crown rule in India",
+            "It created the Supreme Court in Calcutta",
+            "It introduced the Permanent Settlement",
+            "It abolished the East India Company"
+        ],
+        "answer": "It created the Supreme Court in Calcutta"
+    },
+    {
+        "question": "Who was the first Indian woman to win two Olympic medals?",
+        "options": [
+            "P.V. Sindhu",
+            "Saina Nehwal",
+            "Mary Kom",
+            "Karnam Malleswari"
+        ],
+        "answer": "P.V. Sindhu"
+    },
+    {
+        "question": "The 'Battle of Bhopal' was fought between:",
+        "options": [
+            "Marathas and Mughals",
+            "Marathas and Nizam",
+            "Marathas and British",
+            "Marathas and Afghans"
+        ],
+        "answer": "Marathas and Mughals"
+    },
+    {
+        "question": "Who built the famous Brihadisvara Temple at Gangaikonda Cholapuram?",
+        "options": [
+            "Rajaraja Chola I",
+            "Rajendra Chola I",
+            "Kulottunga Chola I",
+            "Vikrama Chola"
+        ],
+        "answer": "Rajendra Chola I"
+    },
+    {
+        "question": "The 'Charter Act of 1813' was significant because:",
+        "options": [
+            "It ended the East India Company's monopoly",
+            "It introduced English education in India",
+            "It established the Indian Civil Service",
+            "It created the post of Governor-General"
+        ],
+        "answer": "It ended the East India Company's monopoly"
+    },
+    {
+        "question": "Who was the first Indian woman to win a Grand Slam title in tennis?",
+        "options": [
+            "Sania Mirza",
+            "Leander Paes",
+            "Mahesh Bhupathi",
+            "Vijay Amritraj"
+        ],
+        "answer": "Sania Mirza"
+    },
+    {
+        "question": "The 'Battle of Ambur' was fought between:",
+        "options": [
+            "British and French",
+            "British and Mysore",
+            "British and Marathas",
+            "British and Nizam"
+        ],
+        "answer": "British and French"
+    },
+    {
+        "question": "Who built the famous Kailasanatha Temple at Ellora?",
+        "options": [
+            "Rashtrakutas",
+            "Chalukyas",
+            "Pallavas",
+            "Cholas"
+        ],
+        "answer": "Rashtrakutas"
+    },
+    {
+        "question": "The 'Pitt's India Act of 1784' was significant because:",
+        "options": [
+            "It established dual government in India",
+            "It created the Board of Control",
+            "It introduced the Permanent Settlement",
+            "It abolished the East India Company"
+        ],
+        "answer": "It created the Board of Control"
+    },
+    {
+        "question": "Who was the first Indian woman to win a medal in Paralympic Games?",
+        "options": [
+            "Deepa Malik",
+            "Devendra Jhajharia",
+            "Mariyappan Thangavelu",
+            "Avani Lekhara"
+        ],
+        "answer": "Deepa Malik"
+    },
+    {
+        "question": "The 'Battle of Assaye' was fought between:",
+        "options": [
+            "British and Marathas",
+            "British and French",
+            "British and Mysore",
+            "British and Sikhs"
+        ],
+        "answer": "British and Marathas"
+    },
+    {
+        "question": "Who built the famous Virupaksha Temple at Pattadakal?",
+        "options": [
+            "Chalukyas",
+            "Rashtrakutas",
+            "Pallavas",
+            "Cholas"
+        ],
+        "answer": "Chalukyas"
+    },
+    {
+        "question": "The 'Government of India Act 1858' was significant because:",
+        "options": [
+            "It transferred power from Company to Crown",
+            "It introduced elections in India",
+            "It created separate electorates",
+            "It established the Indian National Congress"
+        ],
+        "answer": "It transferred power from Company to Crown"
+    },
+    {
+        "question": "Who was the first Indian woman to win a medal in World Wrestling Championships?",
+        "options": [
+            "Geeta Phogat",
+            "Babita Kumari",
+            "Vinesh Phogat",
+            "Sakshi Malik"
+        ],
+        "answer": "Geeta Phogat"
+    },
+    {
+        "question": "The 'Battle of Adyar' was fought between:",
+        "options": [
+            "British and French",
+            "British and Marathas",
+            "British and Mysore",
+            "British and Nizam"
+        ],
+        "answer": "British and French"
+    },
+    {
+        "question": "Who built the famous Shore Temple at Mahabalipuram?",
+        "options": [
+            "Pallavas",
+            "Cholas",
+            "Pandyas",
+            "Chalukyas"
+        ],
+        "answer": "Pallavas"
+    },
+    {
+        "question": "The 'Indian Councils Act of 1892' was significant because:",
+        "options": [
+            "It introduced elections in India",
+            "It established the Indian National Congress",
+            "It created separate electorates",
+            "It granted Dominion status"
+        ],
+        "answer": "It introduced elections in India"
+    },
+    {
+        "question": "Who was the first Indian woman to win a medal in World Boxing Championships?",
+        "options": [
+            "Mary Kom",
+            "Sarita Devi",
+            "Jenny RL",
+            "Nikhat Zareen"
+        ],
+        "answer": "Mary Kom"
+    },
+    {
+        "question": "The 'Battle of Chaksana' was fought between:",
+        "options": [
+            "Marathas and Mughals",
+            "Marathas and British",
+            "Marathas and Nizam",
+            "Marathas and Portuguese"
+        ],
+        "answer": "Marathas and Mughals"
+    },
+    {
+        "question": "Who built the famous Airavatesvara Temple at Darasuram?",
+        "options": [
+            "Rajaraja Chola I",
+            "Rajendra Chola I",
+            "Rajaraja Chola II",
+            "Kulottunga Chola I"
+        ],
+        "answer": "Rajaraja Chola II"
+    },
+    {
+        "question": "The 'Indian Independence Act' was passed in which year?",
+        "options": [
+            "1945",
+            "1946",
+            "1947",
+            "1950"
+        ],
+        "answer": "1947"
+    },
+    {
+        "question": "Who was the first Indian woman to win a medal in World Shooting Championships?",
+        "options": [
+            "Anjali Bhagwat",
+            "Heena Sidhu",
+            "Manu Bhaker",
+            "Rajyavardhan Singh Rathore"
+        ],
+        "answer": "Anjali Bhagwat"
+    },
+    {
+        "question": "The 'Battle of Laswari' was fought between:",
+        "options": [
+            "British and Marathas",
+            "British and French",
+            "British and Sikhs",
+            "British and Mysore"
+        ],
+        "answer": "British and Marathas"
+    },
+    {
+        "question": "Who built the famous Kandariya Mahadeva Temple at Khajuraho?",
+        "options": [
+            "Chandela king Dhanga",
+            "Paramara king Bhoja",
+            "Chalukya king Vikramaditya VI",
+            "Rashtrakuta king Krishna I"
+        ],
+        "answer": "Chandela king Dhanga"
+    },
+    {
+        "question": "The 'Government of India Act 1935' was significant because:",
+        "options": [
+            "It introduced provincial autonomy",
+            "It granted Dominion status",
+            "It created Pakistan",
+            "It abolished the Princely States"
+        ],
+        "answer": "It introduced provincial autonomy"
+    },
+    {
+        "question": "Who was the first Indian woman to win a medal in World Archery Championships?",
+        "options": [
+            "Deepika Kumari",
+            "Dola Banerjee",
+            "Limba Ram",
+            "Bombayla Devi"
+        ],
+        "answer": "Dola Banerjee"
+    },
+    {
+        "question": "The 'Battle of Sitabuldi' was fought between:",
+        "options": [
+            "British and Marathas",
+            "British and Nizam",
+            "British and Pindaris",
+            "British and Gurkhas"
+        ],
+        "answer": "British and Marathas"
+    },
+    {
+        "question": "Who built the famous Rajarani Temple in Bhubaneswar?",
+        "options": [
+            "Gangas",
+            "Cholas",
+            "Pallavas",
+            "Chalukyas"
+        ],
+        "answer": "Gangas"
+    },
+    {
+        "question": "The 'Indian National Congress' was founded in which year?",
+        "options": [
+            "1885",
+            "1905",
+            "1919",
+            "1947"
+        ],
+        "answer": "1885"
+    },
+    {
+        "question": "Who was the first Indian woman to win a medal in World Chess Championship?",
+        "options": [
+            "Koneru Humpy",
+            "Harika Dronavalli",
+            "Vishwanathan Anand",
+            "Vidit Gujrathi"
+        ],
+        "answer": "Koneru Humpy"
+    },
+    {
+        "question": "Who is known as the 'King of Bollywood'?",
+        "options": [
+            "Aamir Khan",
+            "Shah Rukh Khan",
+            "Salman Khan",
+            "Hrithik Roshan"
+        ],
+        "answer": "Shah Rukh Khan"
+    },
+    {
+        "question": "Which Bollywood movie is the highest-grossing film of all time in India?",
+        "options": [
+            "Dangal",
+            "Baahubali 2: The Conclusion",
+            "PK",
+            "Bajrangi Bhaijaan"
+        ],
+        "answer": "Baahubali 2: The Conclusion"
+    },
+    {
+        "question": "Who composed the music for the movie 'Rockstar'?",
+        "options": [
+            "A.R. Rahman",
+            "Pritam",
+            "Vishal-Shekhar",
+            "Shankar-Ehsaan-Loy"
+        ],
+        "answer": "A.R. Rahman"
+    },
+    {
+        "question": "Which actress made her debut in the movie 'Student of the Year'?",
+        "options": [
+            "Alia Bhatt",
+            "Shraddha Kapoor",
+            "Parineeti Chopra",
+            "Anushka Sharma"
+        ],
+        "answer": "Alia Bhatt"
+    },
+    {
+        "question": "Which of these is a famous Indian dance reality show?",
+        "options": [
+            "Indian Idol",
+            "Dance India Dance",
+            "Bigg Boss",
+            "Kaun Banega Crorepati"
+        ],
+        "answer": "Dance India Dance"
+    },
+    {
+        "question": "Who directed the movie 'Lagaan'?",
+        "options": [
+            "Rajkumar Hirani",
+            "Sanjay Leela Bhansali",
+            "Ashutosh Gowariker",
+            "Karan Johar"
+        ],
+        "answer": "Ashutosh Gowariker"
+    },
+    {
+        "question": "Which Bollywood movie won an Oscar?",
+        "options": [
+            "Slumdog Millionaire",
+            "Lagaan",
+            "Gandhi",
+            "Mother India"
+        ],
+        "answer": "Gandhi"
+    },
+    {
+        "question": "Who is known as the 'Queen of Bollywood'?",
+        "options": [
+            "Deepika Padukone",
+            "Priyanka Chopra",
+            "Kareena Kapoor",
+            "Madhuri Dixit"
+        ],
+        "answer": "Madhuri Dixit"
+    },
+    {
+        "question": "Which TV show made Kapil Sharma famous?",
+        "options": [
+            "Comedy Nights with Kapil",
+            "The Kapil Sharma Show",
+            "Laughter Challenge",
+            "Comedy Circus"
+        ],
+        "answer": "Comedy Nights with Kapil"
+    },
+    {
+        "question": "Which of these is a famous Indian soap opera?",
+        "options": [
+            "Kyunki Saas Bhi Kabhi Bahu Thi",
+            "Taarak Mehta Ka Ooltah Chashmah",
+            "Mahabharat",
+            "CID"
+        ],
+        "answer": "Kyunki Saas Bhi Kabhi Bahu Thi"
+    },
+    {
+        "question": "Who played the lead role in 'Bajirao Mastani'?",
+        "options": [
+            "Ranveer Singh",
+            "Shahid Kapoor",
+            "Varun Dhawan",
+            "Ranbir Kapoor"
+        ],
+        "answer": "Ranveer Singh"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Phogat sisters?",
+        "options": [
+            "Dangal",
+            "Sultan",
+            "Mary Kom",
+            "Bhaag Milkha Bhaag"
+        ],
+        "answer": "Dangal"
+    },
+    {
+        "question": "Who is the host of 'Kaun Banega Crorepati'?",
+        "options": [
+            "Salman Khan",
+            "Amitabh Bachchan",
+            "Shah Rukh Khan",
+            "Anil Kapoor"
+        ],
+        "answer": "Amitabh Bachchan"
+    },
+    {
+        "question": "Which of these is a famous Indian stand-up comedian?",
+        "options": [
+            "Kapil Sharma",
+            "Sunil Grover",
+            "Zakir Khan",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Chaiyya Chaiyya'?",
+        "options": [
+            "Dil Se",
+            "Dilwale Dulhania Le Jayenge",
+            "Kuch Kuch Hota Hai",
+            "Kabhi Khushi Kabhie Gham"
+        ],
+        "answer": "Dil Se"
+    },
+    {
+        "question": "Who played the role of 'Mogambo' in 'Mr. India'?",
+        "options": [
+            "Anupam Kher",
+            "Amrish Puri",
+            "Paresh Rawal",
+            "Naseeruddin Shah"
+        ],
+        "answer": "Amrish Puri"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Fashion'?",
+        "options": [
+            "Kangana Ranaut",
+            "Priyanka Chopra",
+            "Deepika Padukone",
+            "Katrina Kaif"
+        ],
+        "answer": "Priyanka Chopra"
+    },
+    {
+        "question": "Which movie marked the debut of Ranbir Kapoor?",
+        "options": [
+            "Wake Up Sid",
+            "Saawariya",
+            "Bachna Ae Haseeno",
+            "Rockstar"
+        ],
+        "answer": "Saawariya"
+    },
+    {
+        "question": "Who directed '3 Idiots'?",
+        "options": [
+            "Rajkumar Hirani",
+            "Rohit Shetty",
+            "Karan Johar",
+            "Farhan Akhtar"
+        ],
+        "answer": "Rajkumar Hirani"
+    },
+    {
+        "question": "Which Bollywood movie is based on the Mumbai underworld?",
+        "options": [
+            "Company",
+            "Satya",
+            "Once Upon a Time in Mumbaai",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Who is known as the 'Badshah of Bollywood'?",
+        "options": [
+            "Akshay Kumar",
+            "Shah Rukh Khan",
+            "Salman Khan",
+            "Amitabh Bachchan"
+        ],
+        "answer": "Shah Rukh Khan"
+    },
+    {
+        "question": "Which of these is a famous Indian singing reality show?",
+        "options": [
+            "Indian Idol",
+            "Sa Re Ga Ma Pa",
+            "The Voice India",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Who played the lead role in 'Padmaavat'?",
+        "options": [
+            "Deepika Padukone",
+            "Priyanka Chopra",
+            "Kangana Ranaut",
+            "Anushka Sharma"
+        ],
+        "answer": "Deepika Padukone"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Tum Hi Ho'?",
+        "options": [
+            "Aashiqui 2",
+            "Yeh Jawaani Hai Deewani",
+            "Jab Tak Hai Jaan",
+            "Barfi!"
+        ],
+        "answer": "Aashiqui 2"
+    },
+    {
+        "question": "Who directed 'Dilwale Dulhania Le Jayenge'?",
+        "options": [
+            "Karan Johar",
+            "Aditya Chopra",
+            "Yash Chopra",
+            "Sooraj Barjatya"
+        ],
+        "answer": "Aditya Chopra"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Milkha Singh?",
+        "options": [
+            "Bhaag Milkha Bhaag",
+            "Dangal",
+            "Mary Kom",
+            "Sultan"
+        ],
+        "answer": "Bhaag Milkha Bhaag"
+    },
+    {
+        "question": "Who is known as the 'Khiladi' of Bollywood?",
+        "options": [
+            "Akshay Kumar",
+            "Ajay Devgn",
+            "Sunny Deol",
+            "Govinda"
+        ],
+        "answer": "Akshay Kumar"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Gali Gali Mein'?",
+        "options": [
+            "Kranti",
+            "Sholay",
+            "Karma",
+            "Phool Aur Kaante"
+        ],
+        "answer": "Kranti"
+    },
+    {
+        "question": "Who played the role of 'Chulbul Pandey' in 'Dabangg'?",
+        "options": [
+            "Salman Khan",
+            "Akshay Kumar",
+            "Ajay Devgn",
+            "Sunny Deol"
+        ],
+        "answer": "Salman Khan"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Queen'?",
+        "options": [
+            "Kangana Ranaut",
+            "Alia Bhatt",
+            "Deepika Padukone",
+            "Anushka Sharma"
+        ],
+        "answer": "Kangana Ranaut"
+    },
+    {
+        "question": "Who directed 'Gully Boy'?",
+        "options": [
+            "Zoya Akhtar",
+            "Farhan Akhtar",
+            "Imtiaz Ali",
+            "Anurag Kashyap"
+        ],
+        "answer": "Zoya Akhtar"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Arunima Sinha?",
+        "options": [
+            "Neerja",
+            "Mary Kom",
+            "Dangal",
+            "None of the above"
+        ],
+        "answer": "None of the above"
+    },
+    {
+        "question": "Who is known as the 'Comedy King' of Bollywood?",
+        "options": [
+            "Johnny Lever",
+            "Paresh Rawal",
+            "Rajpal Yadav",
+            "Govinda"
+        ],
+        "answer": "Johnny Lever"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Mundian To Bach Ke'?",
+        "options": [
+            "Bhaag Milkha Bhaag",
+            "Dilwale",
+            "Hero No. 1",
+            "None of the above"
+        ],
+        "answer": "None of the above"
+    },
+    {
+        "question": "Who played the role of 'Simmba' in 'Simmba'?",
+        "options": [
+            "Ranveer Singh",
+            "Varun Dhawan",
+            "Tiger Shroff",
+            "Kartik Aaryan"
+        ],
+        "answer": "Ranveer Singh"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Raazi'?",
+        "options": [
+            "Alia Bhatt",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Taapsee Pannu"
+        ],
+        "answer": "Alia Bhatt"
+    },
+    {
+        "question": "Who directed 'Andhadhun'?",
+        "options": [
+            "Sriram Raghavan",
+            "Anurag Kashyap",
+            "Vishal Bhardwaj",
+            "Rajkumar Hirani"
+        ],
+        "answer": "Sriram Raghavan"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Neerja Bhanot?",
+        "options": [
+            "Neerja",
+            "Mary Kom",
+            "Dangal",
+            "None of the above"
+        ],
+        "answer": "Neerja"
+    },
+    {
+        "question": "Who is known as the 'Action King' of Bollywood?",
+        "options": [
+            "Akshay Kumar",
+            "Ajay Devgn",
+            "Sunny Deol",
+            "Sanjay Dutt"
+        ],
+        "answer": "Sunny Deol"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Channa Mereya'?",
+        "options": [
+            "Ae Dil Hai Mushkil",
+            "Yeh Jawaani Hai Deewani",
+            "Jab Harry Met Sejal",
+            "Tamasha"
+        ],
+        "answer": "Ae Dil Hai Mushkil"
+    },
+    {
+        "question": "Who played the role of 'Raees' in 'Raees'?",
+        "options": [
+            "Shah Rukh Khan",
+            "Salman Khan",
+            "Aamir Khan",
+            "Ranbir Kapoor"
+        ],
+        "answer": "Shah Rukh Khan"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Tanu Weds Manu'?",
+        "options": [
+            "Kangana Ranaut",
+            "Deepika Padukone",
+            "Anushka Sharma",
+            "Priyanka Chopra"
+        ],
+        "answer": "Kangana Ranaut"
+    },
+    {
+        "question": "Who directed 'Kabhi Khushi Kabhie Gham'?",
+        "options": [
+            "Karan Johar",
+            "Aditya Chopra",
+            "Yash Chopra",
+            "Soojit Sircar"
+        ],
+        "answer": "Karan Johar"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Mahendra Singh Dhoni?",
+        "options": [
+            "M.S. Dhoni: The Untold Story",
+            "Dangal",
+            "Bhaag Milkha Bhaag",
+            "Mary Kom"
+        ],
+        "answer": "M.S. Dhoni: The Untold Story"
+    },
+    {
+        "question": "Who is known as the 'Dabangg' of Bollywood?",
+        "options": [
+            "Salman Khan",
+            "Akshay Kumar",
+            "Ajay Devgn",
+            "Sunny Deol"
+        ],
+        "answer": "Salman Khan"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Gerua'?",
+        "options": [
+            "Dilwale",
+            "Chennai Express",
+            "Happy New Year",
+            "Jab Tak Hai Jaan"
+        ],
+        "answer": "Dilwale"
+    },
+    {
+        "question": "Who played the role of 'Prem' in 'Maine Pyar Kiya'?",
+        "options": [
+            "Salman Khan",
+            "Aamir Khan",
+            "Shah Rukh Khan",
+            "Govinda"
+        ],
+        "answer": "Salman Khan"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Piku'?",
+        "options": [
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Priyanka Chopra",
+            "Alia Bhatt"
+        ],
+        "answer": "Deepika Padukone"
+    },
+    {
+        "question": "Who directed 'Bahubali'?",
+        "options": [
+            "S.S. Rajamouli",
+            "Prabhas",
+            "Rajkumar Hirani",
+            "Sanjay Leela Bhansali"
+        ],
+        "answer": "S.S. Rajamouli"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Bhagat Singh?",
+        "options": [
+            "The Legend of Bhagat Singh",
+            "Rang De Basanti",
+            "Shaheed",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Who is known as the 'Munna Bhai' of Bollywood?",
+        "options": [
+            "Sanjay Dutt",
+            "Arshad Warsi",
+            "Sunny Deol",
+            "Akshay Kumar"
+        ],
+        "answer": "Sanjay Dutt"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Radha'?",
+        "options": [
+            "Student of the Year",
+            "Yeh Jawaani Hai Deewani",
+            "Jab Harry Met Sejal",
+            "None of the above"
+        ],
+        "answer": "Student of the Year"
+    },
+    {
+        "question": "Who played the role of 'Sultan' in 'Sultan'?",
+        "options": [
+            "Salman Khan",
+            "Aamir Khan",
+            "Shah Rukh Khan",
+            "Hrithik Roshan"
+        ],
+        "answer": "Salman Khan"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Dear Zindagi'?",
+        "options": [
+            "Alia Bhatt",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Anushka Sharma"
+        ],
+        "answer": "Alia Bhatt"
+    },
+    {
+        "question": "Who directed 'Barfi!'?",
+        "options": [
+            "Anurag Basu",
+            "Imtiaz Ali",
+            "Rajkumar Hirani",
+            "Shoojit Sircar"
+        ],
+        "answer": "Anurag Basu"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Phogat sisters?",
+        "options": [
+            "Dangal",
+            "Sultan",
+            "Mary Kom",
+            "Bhaag Milkha Bhaag"
+        ],
+        "answer": "Dangal"
+    },
+    {
+        "question": "Who is known as the 'Bhai' of Bollywood?",
+        "options": [
+            "Salman Khan",
+            "Akshay Kumar",
+            "Ajay Devgn",
+            "Govinda"
+        ],
+        "answer": "Salman Khan"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Badtameez Dil'?",
+        "options": [
+            "Yeh Jawaani Hai Deewani",
+            "Student of the Year",
+            "2 States",
+            "Aashiqui 2"
+        ],
+        "answer": "Yeh Jawaani Hai Deewani"
+    },
+    {
+        "question": "Who played the role of 'Prem' in 'Hum Aapke Hain Koun..!'?",
+        "options": [
+            "Salman Khan",
+            "Shah Rukh Khan",
+            "Aamir Khan",
+            "Govinda"
+        ],
+        "answer": "Salman Khan"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Highway'?",
+        "options": [
+            "Alia Bhatt",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Anushka Sharma"
+        ],
+        "answer": "Alia Bhatt"
+    },
+    {
+        "question": "Who directed 'Queen'?",
+        "options": [
+            "Vikas Bahl",
+            "Anurag Kashyap",
+            "Rajkumar Hirani",
+            "Zoya Akhtar"
+        ],
+        "answer": "Vikas Bahl"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Mary Kom?",
+        "options": [
+            "Mary Kom",
+            "Dangal",
+            "Sultan",
+            "Bhaag Milkha Bhaag"
+        ],
+        "answer": "Mary Kom"
+    },
+    {
+        "question": "Who is known as the 'Mahanayak' of Bollywood?",
+        "options": [
+            "Amitabh Bachchan",
+            "Dilip Kumar",
+            "Raj Kapoor",
+            "Dev Anand"
+        ],
+        "answer": "Dilip Kumar"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Tera Ban Jaunga'?",
+        "options": [
+            "Kabir Singh",
+            "Aashiqui 2",
+            "Luka Chuppi",
+            "None of the above"
+        ],
+        "answer": "Kabir Singh"
+    },
+    {
+        "question": "Who played the role of 'Kabir Singh' in 'Kabir Singh'?",
+        "options": [
+            "Shahid Kapoor",
+            "Ranveer Singh",
+            "Varun Dhawan",
+            "Tiger Shroff"
+        ],
+        "answer": "Shahid Kapoor"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Badrinath Ki Dulhania'?",
+        "options": [
+            "Alia Bhatt",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Anushka Sharma"
+        ],
+        "answer": "Alia Bhatt"
+    },
+    {
+        "question": "Who directed 'Kabir Singh'?",
+        "options": [
+            "Sandeep Reddy Vanga",
+            "Anurag Kashyap",
+            "Rajkumar Hirani",
+            "Imtiaz Ali"
+        ],
+        "answer": "Sandeep Reddy Vanga"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Sanjay Dutt?",
+        "options": [
+            "Sanju",
+            "Dangal",
+            "Bhaag Milkha Bhaag",
+            "Mary Kom"
+        ],
+        "answer": "Sanju"
+    },
+    {
+        "question": "Who is known as the 'Angry Young Man' of Bollywood?",
+        "options": [
+            "Amitabh Bachchan",
+            "Dharmendra",
+            "Vinod Khanna",
+            "Mithun Chakraborty"
+        ],
+        "answer": "Amitabh Bachchan"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Ghungroo'?",
+        "options": [
+            "War",
+            "Pathaan",
+            "Tiger Zinda Hai",
+            "None of the above"
+        ],
+        "answer": "War"
+    },
+    {
+        "question": "Who played the role of 'Pathaan' in 'Pathaan'?",
+        "options": [
+            "Shah Rukh Khan",
+            "Salman Khan",
+            "Aamir Khan",
+            "Hrithik Roshan"
+        ],
+        "answer": "Shah Rukh Khan"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Thappad'?",
+        "options": [
+            "Taapsee Pannu",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Alia Bhatt"
+        ],
+        "answer": "Taapsee Pannu"
+    },
+    {
+        "question": "Who directed 'Thappad'?",
+        "options": [
+            "Anubhav Sinha",
+            "Anurag Kashyap",
+            "Rajkumar Hirani",
+            "Zoya Akhtar"
+        ],
+        "answer": "Anubhav Sinha"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Uday Singh?",
+        "options": [
+            "Kesari",
+            "Dangal",
+            "Bhaag Milkha Bhaag",
+            "None of the above"
+        ],
+        "answer": "Kesari"
+    },
+    {
+        "question": "Who is known as the 'Jumping Jack' of Bollywood?",
+        "options": [
+            "Jeetendra",
+            "Govinda",
+            "Mithun Chakraborty",
+            "Dharmendra"
+        ],
+        "answer": "Jeetendra"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Malang'?",
+        "options": [
+            "Malang",
+            "Dil Bechara",
+            "Kabir Singh",
+            "None of the above"
+        ],
+        "answer": "Malang"
+    },
+    {
+        "question": "Who played the role of 'Shershaah' in 'Shershaah'?",
+        "options": [
+            "Sidharth Malhotra",
+            "Varun Dhawan",
+            "Tiger Shroff",
+            "Kartik Aaryan"
+        ],
+        "answer": "Sidharth Malhotra"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Gunjan Saxena: The Kargil Girl'?",
+        "options": [
+            "Janhvi Kapoor",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Alia Bhatt"
+        ],
+        "answer": "Janhvi Kapoor"
+    },
+    {
+        "question": "Who directed 'Shershaah'?",
+        "options": [
+            "Vishnuvardhan",
+            "Anurag Kashyap",
+            "Rajkumar Hirani",
+            "Karan Johar"
+        ],
+        "answer": "Vishnuvardhan"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Rani Lakshmibai?",
+        "options": [
+            "Manikarnika",
+            "Dangal",
+            "Bhaag Milkha Bhaag",
+            "Mary Kom"
+        ],
+        "answer": "Manikarnika"
+    },
+    {
+        "question": "Who is known as the 'First Superstar' of Bollywood?",
+        "options": [
+            "Rajesh Khanna",
+            "Amitabh Bachchan",
+            "Dilip Kumar",
+            "Dev Anand"
+        ],
+        "answer": "Rajesh Khanna"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Shayad'?",
+        "options": [
+            "Love Aaj Kal",
+            "Jab Harry Met Sejal",
+            "Ae Dil Hai Mushkil",
+            "None of the above"
+        ],
+        "answer": "Love Aaj Kal"
+    },
+    {
+        "question": "Who played the role of 'Ranjha' in 'Raabta'?",
+        "options": [
+            "Sushant Singh Rajput",
+            "Varun Dhawan",
+            "Tiger Shroff",
+            "Kartik Aaryan"
+        ],
+        "answer": "Sushant Singh Rajput"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Chhapaak'?",
+        "options": [
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Alia Bhatt",
+            "Taapsee Pannu"
+        ],
+        "answer": "Deepika Padukone"
+    },
+    {
+        "question": "Who directed 'Chhapaak'?",
+        "options": [
+            "Meghna Gulzar",
+            "Zoya Akhtar",
+            "Anurag Kashyap",
+            "Rajkumar Hirani"
+        ],
+        "answer": "Meghna Gulzar"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Arunima Sinha?",
+        "options": [
+            "Neerja",
+            "Mary Kom",
+            "Dangal",
+            "None of the above"
+        ],
+        "answer": "None of the above"
+    },
+    {
+        "question": "Who is known as the 'Tragedy King' of Bollywood?",
+        "options": [
+            "Dilip Kumar",
+            "Raj Kapoor",
+            "Dev Anand",
+            "Rajesh Khanna"
+        ],
+        "answer": "Dilip Kumar"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Garmi'?",
+        "options": [
+            "Street Dancer 3D",
+            "War",
+            "Baaghi 3",
+            "None of the above"
+        ],
+        "answer": "Street Dancer 3D"
+    },
+    {
+        "question": "Who played the role of 'Rocketry: The Nambi Effect'?",
+        "options": [
+            "R. Madhavan",
+            "Kamal Haasan",
+            "Rajinikanth",
+            "Akshay Kumar"
+        ],
+        "answer": "R. Madhavan"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'The Sky Is Pink'?",
+        "options": [
+            "Priyanka Chopra",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Alia Bhatt"
+        ],
+        "answer": "Priyanka Chopra"
+    },
+    {
+        "question": "Who directed 'The Sky Is Pink'?",
+        "options": [
+            "Shonali Bose",
+            "Zoya Akhtar",
+            "Anurag Kashyap",
+            "Rajkumar Hirani"
+        ],
+        "answer": "Shonali Bose"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Shivkar Bapuji Talpade?",
+        "options": [
+            "Hawaizaada",
+            "Dangal",
+            "Bhaag Milkha Bhaag",
+            "Mary Kom"
+        ],
+        "answer": "Hawaizaada"
+    },
+    {
+        "question": "Who is known as the 'Showman' of Bollywood?",
+        "options": [
+            "Raj Kapoor",
+            "Subhash Ghai",
+            "Yash Chopra",
+            "Karan Johar"
+        ],
+        "answer": "Raj Kapoor"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Illegal Weapon 2.0'?",
+        "options": [
+            "Street Dancer 3D",
+            "Baaghi 3",
+            "Love Aaj Kal",
+            "None of the above"
+        ],
+        "answer": "Street Dancer 3D"
+    },
+    {
+        "question": "Who played the role of 'Bhagat Singh' in 'The Legend of Bhagat Singh'?",
+        "options": [
+            "Ajay Devgn",
+            "Bobby Deol",
+            "Sunny Deol",
+            "Akshay Kumar"
+        ],
+        "answer": "Ajay Devgn"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Panga'?",
+        "options": [
+            "Kangana Ranaut",
+            "Deepika Padukone",
+            "Alia Bhatt",
+            "Taapsee Pannu"
+        ],
+        "answer": "Kangana Ranaut"
+    },
+    {
+        "question": "Who directed 'Panga'?",
+        "options": [
+            "Ashwiny Iyer Tiwari",
+            "Zoya Akhtar",
+            "Anurag Kashyap",
+            "Rajkumar Hirani"
+        ],
+        "answer": "Ashwiny Iyer Tiwari"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Arunachalam Muruganantham?",
+        "options": [
+            "Pad Man",
+            "Dangal",
+            "Bhaag Milkha Bhaag",
+            "Mary Kom"
+        ],
+        "answer": "Pad Man"
+    },
+    {
+        "question": "Who is known as the 'Megastar' of Bollywood?",
+        "options": [
+            "Amitabh Bachchan",
+            "Rajinikanth",
+            "Chiranjeevi",
+            "Kamal Haasan"
+        ],
+        "answer": "Rajinikanth"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Dilbar'?",
+        "options": [
+            "Satyameva Jayate",
+            "Race 3",
+            "Baaghi 2",
+            "None of the above"
+        ],
+        "answer": "Satyameva Jayate"
+    },
+    {
+        "question": "Who played the role of 'Batla House' in 'Batla House'?",
+        "options": [
+            "John Abraham",
+            "Ajay Devgn",
+            "Akshay Kumar",
+            "Ranveer Singh"
+        ],
+        "answer": "John Abraham"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Mission Mangal'?",
+        "options": [
+            "Vidya Balan",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Alia Bhatt"
+        ],
+        "answer": "Vidya Balan"
+    },
+    {
+        "question": "Who directed 'Mission Mangal'?",
+        "options": [
+            "Jagan Shakti",
+            "Rajkumar Hirani",
+            "Anurag Kashyap",
+            "Zoya Akhtar"
+        ],
+        "answer": "Jagan Shakti"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Shivaji Rao Gaekwad?",
+        "options": [
+            "Rajinikanth: The Saga",
+            "Dangal",
+            "Bhaag Milkha Bhaag",
+            "Mary Kom"
+        ],
+        "answer": "Rajinikanth: The Saga"
+    },
+    {
+        "question": "Who is known as the 'Star of the Millennium'?",
+        "options": [
+            "Amitabh Bachchan",
+            "Rajesh Khanna",
+            "Dilip Kumar",
+            "Dev Anand"
+        ],
+        "answer": "Amitabh Bachchan"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Ve Maahi'?",
+        "options": [
+            "Kesari",
+            "Kabir Singh",
+            "Good Newwz",
+            "None of the above"
+        ],
+        "answer": "Kesari"
+    },
+    {
+        "question": "Who played the role of 'Kesari' in 'Kesari'?",
+        "options": [
+            "Akshay Kumar",
+            "Ajay Devgn",
+            "Sunny Deol",
+            "Ranveer Singh"
+        ],
+        "answer": "Akshay Kumar"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Good Newwz'?",
+        "options": [
+            "Kareena Kapoor",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Alia Bhatt"
+        ],
+        "answer": "Kareena Kapoor"
+    },
+    {
+        "question": "Who directed 'Good Newwz'?",
+        "options": [
+            "Raj Mehta",
+            "Rajkumar Hirani",
+            "Anurag Kashyap",
+            "Zoya Akhtar"
+        ],
+        "answer": "Raj Mehta"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Anand Kumar?",
+        "options": [
+            "Super 30",
+            "Dangal",
+            "Bhaag Milkha Bhaag",
+            "Mary Kom"
+        ],
+        "answer": "Super 30"
+    },
+    {
+        "question": "Who is known as the 'King of Romance' in Bollywood?",
+        "options": [
+            "Shah Rukh Khan",
+            "Salman Khan",
+            "Aamir Khan",
+            "Hrithik Roshan"
+        ],
+        "answer": "Shah Rukh Khan"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Tujhe Kitna Chahne Lage'?",
+        "options": [
+            "Kabir Singh",
+            "Aashiqui 2",
+            "Love Aaj Kal",
+            "None of the above"
+        ],
+        "answer": "Kabir Singh"
+    },
+    {
+        "question": "Who played the role of 'Super 30' in 'Super 30'?",
+        "options": [
+            "Hrithik Roshan",
+            "Akshay Kumar",
+            "Ajay Devgn",
+            "Ranveer Singh"
+        ],
+        "answer": "Hrithik Roshan"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Judgementall Hai Kya'?",
+        "options": [
+            "Kangana Ranaut",
+            "Deepika Padukone",
+            "Alia Bhatt",
+            "Taapsee Pannu"
+        ],
+        "answer": "Kangana Ranaut"
+    },
+    {
+        "question": "Who directed 'Judgementall Hai Kya'?",
+        "options": [
+            "Prakash Kovelamudi",
+            "Rajkumar Hirani",
+            "Anurag Kashyap",
+            "Zoya Akhtar"
+        ],
+        "answer": "Prakash Kovelamudi"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Balasaheb Thackeray?",
+        "options": [
+            "Thackeray",
+            "Dangal",
+            "Bhaag Milkha Bhaag",
+            "Mary Kom"
+        ],
+        "answer": "Thackeray"
+    },
+    {
+        "question": "Who is known as the 'First Female Superstar' of Bollywood?",
+        "options": [
+            "Madhubala",
+            "Meena Kumari",
+            "Nargis",
+            "Sridevi"
+        ],
+        "answer": "Sridevi"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Husn Parcham'?",
+        "options": [
+            "Zero",
+            "Race 3",
+            "Baaghi 2",
+            "None of the above"
+        ],
+        "answer": "Zero"
+    },
+    {
+        "question": "Who played the role of 'Zero' in 'Zero'?",
+        "options": [
+            "Shah Rukh Khan",
+            "Salman Khan",
+            "Aamir Khan",
+            "Ranveer Singh"
+        ],
+        "answer": "Shah Rukh Khan"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Zero'?",
+        "options": [
+            "Katrina Kaif",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Alia Bhatt"
+        ],
+        "answer": "Katrina Kaif"
+    },
+    {
+        "question": "Who directed 'Zero'?",
+        "options": [
+            "Aanand L. Rai",
+            "Rajkumar Hirani",
+            "Anurag Kashyap",
+            "Zoya Akhtar"
+        ],
+        "answer": "Aanand L. Rai"
+    },
+    {
+        "question": "Which Bollywood movie is based on the life of Arunima Sinha?",
+        "options": [
+            "Neerja",
+            "Mary Kom",
+            "Dangal",
+            "None of the above"
+        ],
+        "answer": "None of the above"
+    },
+    {
+        "question": "Who is known as the 'First Superstar' of Bollywood?",
+        "options": [
+            "Rajesh Khanna",
+            "Amitabh Bachchan",
+            "Dilip Kumar",
+            "Dev Anand"
+        ],
+        "answer": "Rajesh Khanna"
+    },
+    {
+        "question": "Which Bollywood movie features the song 'Teri Mitti'?",
+        "options": [
+            "Kesari",
+            "Kabir Singh",
+            "Good Newwz",
+            "None of the above"
+        ],
+        "answer": "Kesari"
+    },
+    {
+        "question": "Who played the role of 'Kesari' in 'Kesari'?",
+        "options": [
+            "Akshay Kumar",
+            "Ajay Devgn",
+            "Sunny Deol",
+            "Ranveer Singh"
+        ],
+        "answer": "Akshay Kumar"
+    },
+    {
+        "question": "Which Bollywood actress starred in 'Good Newwz'?",
+        "options": [
+            "Kareena Kapoor",
+            "Deepika Padukone",
+            "Kangana Ranaut",
+            "Alia Bhatt"
+        ],
+        "answer": "Kareena Kapoor"
+    },
+    {
+        "question": "Who directed 'Good Newwz'?",
+        "options": [
+            "Raj Mehta",
+            "Rajkumar Hirani",
+            "Anurag Kashyap",
+            "Zoya Akhtar"
+        ],
+        "answer": "Raj Mehta"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+            "Earth",
+            "Jupiter",
+            "Saturn",
+            "Mars"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which country is home to the kangaroo?",
+        "options": [
+            "Brazil",
+            "Australia",
+            "South Africa",
+            "India"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "options": [
+            "Beijing",
+            "Seoul",
+            "Tokyo",
+            "Bangkok"
+        ],
+        "answer": "Tokyo"
+    },
+    {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Michelangelo"
+        ],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which language has the most native speakers?",
+        "options": [
+            "English",
+            "Spanish",
+            "Hindi",
+            "Mandarin Chinese"
+        ],
+        "answer": "Mandarin Chinese"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": [
+            "Amazon River",
+            "Nile River",
+            "Yangtze River",
+            "Mississippi River"
+        ],
+        "answer": "Nile River"
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Jane Austen",
+            "Mark Twain"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "Go",
+            "Gd",
+            "Au",
+            "Ag"
+        ],
+        "answer": "Au"
+    },
+    {
+        "question": "Which country invented tea?",
+        "options": [
+            "India",
+            "China",
+            "Japan",
+            "England"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "Which animal is known as the 'King of the Jungle'?",
+        "options": [
+            "Elephant",
+            "Lion",
+            "Tiger",
+            "Gorilla"
+        ],
+        "answer": "Lion"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Platinum"
+        ],
+        "answer": "Diamond"
+    },
+    {
+        "question": "Which country has the most time zones?",
+        "options": [
+            "USA",
+            "Russia",
+            "China",
+            "France"
+        ],
+        "answer": "France"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": [
+            "K2",
+            "Mount Everest",
+            "Kangchenjunga",
+            "Lhotse"
+        ],
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Neptune",
+            "Mars"
+        ],
+        "answer": "Saturn"
+    },
+    {
+        "question": "Who is known as the 'Father of Computers'?",
+        "options": [
+            "Bill Gates",
+            "Alan Turing",
+            "Charles Babbage",
+            "Steve Jobs"
+        ],
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "options": [
+            "Yen",
+            "Won",
+            "Ringgit",
+            "Baht"
+        ],
+        "answer": "Yen"
+    },
+    {
+        "question": "Which continent is the Sahara Desert located in?",
+        "options": [
+            "Asia",
+            "Africa",
+            "Australia",
+            "South America"
+        ],
+        "answer": "Africa"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": [
+            "Elephant",
+            "Blue Whale",
+            "Giraffe",
+            "Polar Bear"
+        ],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Which country is the largest by land area?",
+        "options": [
+            "China",
+            "USA",
+            "Canada",
+            "Russia"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "question": "Who was the first person to step on the Moon?",
+        "options": [
+            "Buzz Aldrin",
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "Michael Collins"
+        ],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "What is the main component of the Sun?",
+        "options": [
+            "Liquid Lava",
+            "Hydrogen",
+            "Oxygen",
+            "Helium"
+        ],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": [
+            "China",
+            "Japan",
+            "South Korea",
+            "Thailand"
+        ],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": [
+            "Gobi Desert",
+            "Sahara Desert",
+            "Arabian Desert",
+            "Antarctica"
+        ],
+        "answer": "Antarctica"
+    },
+    {
+        "question": "Which bird is the national symbol of the USA?",
+        "options": [
+            "Eagle",
+            "Hawk",
+            "Falcon",
+            "Owl"
+        ],
+        "answer": "Eagle"
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "options": [
+            "Lion",
+            "Cheetah",
+            "Leopard",
+            "Horse"
+        ],
+        "answer": "Cheetah"
+    },
+    {
+        "question": "Which organ pumps blood in the human body?",
+        "options": [
+            "Liver",
+            "Brain",
+            "Heart",
+            "Lungs"
+        ],
+        "answer": "Heart"
+    },
+    {
+        "question": "What is the largest bone in the human body?",
+        "options": [
+            "Femur",
+            "Tibia",
+            "Humerus",
+            "Skull"
+        ],
+        "answer": "Femur"
+    },
+    {
+        "question": "Which country is the largest producer of coffee?",
+        "options": [
+            "Colombia",
+            "Brazil",
+            "Vietnam",
+            "Ethiopia"
+        ],
+        "answer": "Brazil"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": [
+            "Venus",
+            "Mercury",
+            "Earth",
+            "Mars"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Guglielmo Marconi"
+        ],
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "question": "What is the largest species of shark?",
+        "options": [
+            "Great White Shark",
+            "Hammerhead Shark",
+            "Whale Shark",
+            "Tiger Shark"
+        ],
+        "answer": "Whale Shark"
+    },
+    {
+        "question": "Which country is home to the Great Pyramid of Giza?",
+        "options": [
+            "Iraq",
+            "Egypt",
+            "Mexico",
+            "Greece"
+        ],
+        "answer": "Egypt"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": [
+            "90°C",
+            "100°C",
+            "110°C",
+            "120°C"
+        ],
+        "answer": "100°C"
+    },
+    {
+        "question": "Which gas is used in balloons to make them float?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Helium",
+            "Hydrogen"
+        ],
+        "answer": "Helium"
+    },
+    {
+        "question": "Which planet has rings around it?",
+        "options": [
+            "Mars",
+            "Jupiter",
+            "Saturn",
+            "Uranus"
+        ],
+        "answer": "Saturn"
+    },
+    {
+        "question": "Who wrote 'The Theory of Relativity'?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Stephen Hawking",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which animal is the national symbol of Canada?",
+        "options": [
+            "Moose",
+            "Beaver",
+            "Polar Bear",
+            "Eagle"
+        ],
+        "answer": "Beaver"
+    },
+    {
+        "question": "What is the largest continent by area?",
+        "options": [
+            "Africa",
+            "North America",
+            "Asia",
+            "Europe"
+        ],
+        "answer": "Asia"
+    },
+    {
+        "question": "Which country is the largest democracy in the world?",
+        "options": [
+            "USA",
+            "India",
+            "Brazil",
+            "Indonesia"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "What is the main language spoken in Brazil?",
+        "options": [
+            "Spanish",
+            "Portuguese",
+            "French",
+            "English"
+        ],
+        "answer": "Portuguese"
+    },
+    {
+        "question": "Which famous scientist developed the laws of motion?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "What is the largest bird in the world?",
+        "options": [
+            "Eagle",
+            "Ostrich",
+            "Albatross",
+            "Peacock"
+        ],
+        "answer": "Ostrich"
+    },
+    {
+        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "options": [
+            "Sweden",
+            "Norway",
+            "Finland",
+            "Iceland"
+        ],
+        "answer": "Norway"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": [
+            "Monaco",
+            "Vatican City",
+            "San Marino",
+            "Liechtenstein"
+        ],
+        "answer": "Vatican City"
+    },
+    {
+        "question": "Which planet is the hottest in our solar system?",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Mars",
+            "Jupiter"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "question": "Who painted 'The Starry Night'?",
+        "options": [
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Claude Monet",
+            "Salvador Dalí"
+        ],
+        "answer": "Vincent van Gogh"
+    },
+    {
+        "question": "What is the currency of the United Kingdom?",
+        "options": [
+            "Euro",
+            "Dollar",
+            "Pound Sterling",
+            "Yen"
+        ],
+        "answer": "Pound Sterling"
+    },
+    {
+        "question": "Which animal is known as the 'Ship of the Desert'?",
+        "options": [
+            "Horse",
+            "Camel",
+            "Elephant",
+            "Donkey"
+        ],
+        "answer": "Camel"
+    },
+    {
+        "question": "What is the largest lake in the world?",
+        "options": [
+            "Caspian Sea",
+            "Lake Superior",
+            "Lake Victoria",
+            "Lake Baikal"
+        ],
+        "answer": "Caspian Sea"
+    },
+    {
+        "question": "Which country is the largest producer of bananas?",
+        "options": [
+            "Ecuador",
+            "India",
+            "Brazil",
+            "Philippines"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "options": [
+            "Johannesburg",
+            "Cape Town",
+            "Pretoria",
+            "Durban"
+        ],
+        "answer": "Pretoria"
+    },
+    {
+        "question": "Which planet is known as the 'Evening Star'?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "question": "Who invented the light bulb?",
+        "options": [
+            "Thomas Edison",
+            "Nikola Tesla",
+            "Alexander Graham Bell",
+            "Benjamin Franklin"
+        ],
+        "answer": "Thomas Edison"
+    },
+    {
+        "question": "What is the largest coral reef system in the world?",
+        "options": [
+            "Great Barrier Reef",
+            "Belize Barrier Reef",
+            "Red Sea Coral Reef",
+            "Maldives Coral Reef"
+        ],
+        "answer": "Great Barrier Reef"
+    },
+    {
+        "question": "Which country is the largest producer of chocolate?",
+        "options": [
+            "Switzerland",
+            "Belgium",
+            "Ivory Coast",
+            "Germany"
+        ],
+        "answer": "Ivory Coast"
+    },
+    {
+        "question": "What is the capital of New Zealand?",
+        "options": [
+            "Auckland",
+            "Wellington",
+            "Christchurch",
+            "Queenstown"
+        ],
+        "answer": "Wellington"
+    },
+    {
+        "question": "Which gas is known as 'Laughing Gas'?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrous Oxide",
+            "Helium"
+        ],
+        "answer": "Nitrous Oxide"
+    },
+    {
+        "question": "Which country has the most islands?",
+        "options": [
+            "Indonesia",
+            "Philippines",
+            "Sweden",
+            "Canada"
+        ],
+        "answer": "Sweden"
+    },
+    {
+        "question": "What is the largest species of penguin?",
+        "options": [
+            "Emperor Penguin",
+            "King Penguin",
+            "Adelie Penguin",
+            "Gentoo Penguin"
+        ],
+        "answer": "Emperor Penguin"
+    },
+    {
+        "question": "Which country is known as the 'Land of Fire and Ice'?",
+        "options": [
+            "Greenland",
+            "Iceland",
+            "Norway",
+            "Finland"
+        ],
+        "answer": "Iceland"
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "options": [
+            "Buenos Aires",
+            "Santiago",
+            "Lima",
+            "Rio de Janeiro"
+        ],
+        "answer": "Buenos Aires"
+    },
+    {
+        "question": "Which planet has the strongest winds in the solar system?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Neptune",
+            "Uranus"
+        ],
+        "answer": "Neptune"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "options": [
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Marie Curie",
+            "Robert Koch"
+        ],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "What is the largest active volcano in the world?",
+        "options": [
+            "Mount Vesuvius",
+            "Mauna Loa",
+            "Mount Kilimanjaro",
+            "Mount Fuji"
+        ],
+        "answer": "Mauna Loa"
+    },
+    {
+        "question": "Which country is the largest producer of diamonds?",
+        "options": [
+            "South Africa",
+            "Russia",
+            "Botswana",
+            "Canada"
+        ],
+        "answer": "Russia"
+    },
+    {
+        "question": "What is the capital of Turkey?",
+        "options": [
+            "Istanbul",
+            "Ankara",
+            "Antalya",
+            "Izmir"
+        ],
+        "answer": "Ankara"
+    },
+    {
+        "question": "Which animal has the longest lifespan?",
+        "options": [
+            "Elephant",
+            "Giant Tortoise",
+            "Bowhead Whale",
+            "Parrot"
+        ],
+        "answer": "Bowhead Whale"
+    },
+    {
+        "question": "What is the largest delta in the world?",
+        "options": [
+            "Amazon Delta",
+            "Nile Delta",
+            "Ganges-Brahmaputra Delta",
+            "Mississippi Delta"
+        ],
+        "answer": "Ganges-Brahmaputra Delta"
+    },
+    {
+        "question": "Which country is the largest producer of olive oil?",
+        "options": [
+            "Italy",
+            "Greece",
+            "Spain",
+            "Turkey"
+        ],
+        "answer": "Spain"
+    },
+    {
+        "question": "What is the capital of Saudi Arabia?",
+        "options": [
+            "Mecca",
+            "Riyadh",
+            "Jeddah",
+            "Medina"
+        ],
+        "answer": "Riyadh"
+    },
+    {
+        "question": "Which planet is the slowest to orbit the Sun?",
+        "options": [
+            "Neptune",
+            "Uranus",
+            "Saturn",
+            "Jupiter"
+        ],
+        "answer": "Neptune"
+    },
+    {
+        "question": "Who invented the periodic table?",
+        "options": [
+            "Marie Curie",
+            "Dmitri Mendeleev",
+            "Albert Einstein",
+            "Isaac Newton"
+        ],
+        "answer": "Dmitri Mendeleev"
+    },
+    {
+        "question": "What is the largest desert in Asia?",
+        "options": [
+            "Thar Desert",
+            "Gobi Desert",
+            "Arabian Desert",
+            "Karakum Desert"
+        ],
+        "answer": "Gobi Desert"
+    },
+    {
+        "question": "Which country is the largest producer of tea?",
+        "options": [
+            "India",
+            "China",
+            "Sri Lanka",
+            "Kenya"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital of Mexico?",
+        "options": [
+            "Guadalajara",
+            "Cancun",
+            "Mexico City",
+            "Monterrey"
+        ],
+        "answer": "Mexico City"
+    },
+    {
+        "question": "Which animal is the fastest swimmer?",
+        "options": [
+            "Dolphin",
+            "Sailfish",
+            "Shark",
+            "Tuna"
+        ],
+        "answer": "Sailfish"
+    },
+    {
+        "question": "What is the largest waterfall in the world?",
+        "options": [
+            "Niagara Falls",
+            "Angel Falls",
+            "Victoria Falls",
+            "Iguazu Falls"
+        ],
+        "answer": "Angel Falls"
+    },
+    {
+        "question": "Which country is the largest producer of rice?",
+        "options": [
+            "India",
+            "China",
+            "Thailand",
+            "Vietnam"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "options": [
+            "Busan",
+            "Incheon",
+            "Seoul",
+            "Daegu"
+        ],
+        "answer": "Seoul"
+    },
+    {
+        "question": "Which planet is the brightest in the night sky?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "question": "Who discovered electricity?",
+        "options": [
+            "Thomas Edison",
+            "Benjamin Franklin",
+            "Nikola Tesla",
+            "Alessandro Volta"
+        ],
+        "answer": "Benjamin Franklin"
+    },
+    {
+        "question": "What is the largest glacier in the world?",
+        "options": [
+            "Lambert Glacier",
+            "Pine Island Glacier",
+            "Siachen Glacier",
+            "Vatnajökull Glacier"
+        ],
+        "answer": "Lambert Glacier"
+    },
+    {
+        "question": "Which country is the largest producer of silk?",
+        "options": [
+            "India",
+            "China",
+            "Japan",
+            "Thailand"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "options": [
+            "Venice",
+            "Milan",
+            "Rome",
+            "Florence"
+        ],
+        "answer": "Rome"
+    },
+    {
+        "question": "Which animal is the national symbol of China?",
+        "options": [
+            "Dragon",
+            "Panda",
+            "Tiger",
+            "Crane"
+        ],
+        "answer": "Panda"
+    },
+    {
+        "question": "What is the largest bay in the world?",
+        "options": [
+            "Hudson Bay",
+            "Bay of Bengal",
+            "Gulf of Mexico",
+            "Chesapeake Bay"
+        ],
+        "answer": "Bay of Bengal"
+    },
+    {
+        "question": "Which country is the largest producer of wheat?",
+        "options": [
+            "USA",
+            "China",
+            "India",
+            "Russia"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "options": [
+            "Munich",
+            "Berlin",
+            "Hamburg",
+            "Frankfurt"
+        ],
+        "answer": "Berlin"
+    },
+    {
+        "question": "Which planet has the most volcanoes?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "question": "Who invented the airplane?",
+        "options": [
+            "Wright Brothers",
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Henry Ford"
+        ],
+        "answer": "Wright Brothers"
+    },
+    {
+        "question": "What is the largest peninsula in the world?",
+        "options": [
+            "Arabian Peninsula",
+            "Indian Peninsula",
+            "Scandinavian Peninsula",
+            "Alaska Peninsula"
+        ],
+        "answer": "Arabian Peninsula"
+    },
+    {
+        "question": "Which country is the largest producer of gold?",
+        "options": [
+            "South Africa",
+            "China",
+            "Australia",
+            "USA"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "options": [
+            "Barcelona",
+            "Madrid",
+            "Valencia",
+            "Seville"
+        ],
+        "answer": "Madrid"
+    },
+    {
+        "question": "Which animal is the national symbol of Australia?",
+        "options": [
+            "Kangaroo",
+            "Koala",
+            "Emu",
+            "Platypus"
+        ],
+        "answer": "Kangaroo"
+    },
+    {
+        "question": "What is the largest cave in the world?",
+        "options": [
+            "Son Doong Cave",
+            "Mammoth Cave",
+            "Carlsbad Caverns",
+            "Waitomo Caves"
+        ],
+        "answer": "Son Doong Cave"
+    },
+    {
+        "question": "Which country is the largest producer of natural gas?",
+        "options": [
+            "Russia",
+            "USA",
+            "Iran",
+            "Qatar"
+        ],
+        "answer": "USA"
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "options": [
+            "Alexandria",
+            "Cairo",
+            "Luxor",
+            "Giza"
+        ],
+        "answer": "Cairo"
+    },
+    {
+        "question": "Which planet has the most extreme seasons?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Uranus",
+            "Neptune"
+        ],
+        "answer": "Uranus"
+    },
+    {
+        "question": "Who invented the computer?",
+        "options": [
+            "Alan Turing",
+            "Charles Babbage",
+            "Bill Gates",
+            "Steve Jobs"
+        ],
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "What is the largest island in the world?",
+        "options": [
+            "Greenland",
+            "Australia",
+            "Borneo",
+            "Madagascar"
+        ],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country is the largest producer of silver?",
+        "options": [
+            "Mexico",
+            "Peru",
+            "China",
+            "USA"
+        ],
+        "answer": "Mexico"
+    },
+    {
+        "question": "What is the capital of Thailand?",
+        "options": [
+            "Phuket",
+            "Chiang Mai",
+            "Bangkok",
+            "Pattaya"
+        ],
+        "answer": "Bangkok"
+    },
+    {
+        "question": "Which animal is the national symbol of India?",
+        "options": [
+            "Lion",
+            "Tiger",
+            "Elephant",
+            "Peacock"
+        ],
+        "answer": "Tiger"
+    },
+    {
+        "question": "What is the largest saltwater lake in the world?",
+        "options": [
+            "Caspian Sea",
+            "Great Salt Lake",
+            "Lake Urmia",
+            "Dead Sea"
+        ],
+        "answer": "Caspian Sea"
+    },
+    {
+        "question": "Which country is the largest producer of cotton?",
+        "options": [
+            "USA",
+            "China",
+            "India",
+            "Pakistan"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "What is the capital of Malaysia?",
+        "options": [
+            "Kuala Lumpur",
+            "Penang",
+            "Johor Bahru",
+            "Malacca"
+        ],
+        "answer": "Kuala Lumpur"
+    },
+    {
+        "question": "Which planet is the densest in the solar system?",
+        "options": [
+            "Earth",
+            "Mercury",
+            "Venus",
+            "Mars"
+        ],
+        "answer": "Earth"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Guglielmo Marconi"
+        ],
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "question": "What is the largest forest in the world?",
+        "options": [
+            "Amazon Rainforest",
+            "Congo Rainforest",
+            "Taiga Forest",
+            "Daintree Rainforest"
+        ],
+        "answer": "Amazon Rainforest"
+    },
+    {
+        "question": "Which country is the largest producer of coffee?",
+        "options": [
+            "Colombia",
+            "Brazil",
+            "Vietnam",
+            "Ethiopia"
+        ],
+        "answer": "Brazil"
+    },
+    {
+        "question": "What is the capital of Indonesia?",
+        "options": [
+            "Jakarta",
+            "Bali",
+            "Surabaya",
+            "Bandung"
+        ],
+        "answer": "Jakarta"
+    },
+    {
+        "question": "Which animal is the national symbol of Russia?",
+        "options": [
+            "Bear",
+            "Eagle",
+            "Wolf",
+            "Tiger"
+        ],
+        "answer": "Bear"
+    },
+    {
+        "question": "What is the largest canyon in the world?",
+        "options": [
+            "Grand Canyon",
+            "Yarlung Tsangpo Canyon",
+            "Fish River Canyon",
+            "Copper Canyon"
+        ],
+        "answer": "Yarlung Tsangpo Canyon"
+    },
+    {
+        "question": "Which country is the largest producer of rubber?",
+        "options": [
+            "Thailand",
+            "Indonesia",
+            "Malaysia",
+            "Vietnam"
+        ],
+        "answer": "Thailand"
+    },
+    {
+        "question": "What is the capital of Pakistan?",
+        "options": [
+            "Karachi",
+            "Lahore",
+            "Islamabad",
+            "Rawalpindi"
+        ],
+        "answer": "Islamabad"
+    },
+    {
+        "question": "Which planet is the windiest in the solar system?",
+        "options": [
+            "Jupiter",
+            "Saturn",
+            "Neptune",
+            "Uranus"
+        ],
+        "answer": "Neptune"
+    },
+    {
+        "question": "Who invented the telescope?",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Hans Lippershey",
+            "Johannes Kepler"
+        ],
+        "answer": "Hans Lippershey"
+    },
+    {
+        "question": "What is the largest swamp in the world?",
+        "options": [
+            "Pantanal",
+            "Everglades",
+            "Okavango Delta",
+            "Sundarbans"
+        ],
+        "answer": "Pantanal"
+    },
+    {
+        "question": "Which country is the largest producer of sugarcane?",
+        "options": [
+            "India",
+            "Brazil",
+            "China",
+            "Thailand"
+        ],
+        "answer": "Brazil"
+    },
+    {
+        "question": "What is the capital of Vietnam?",
+        "options": [
+            "Ho Chi Minh City",
+            "Hanoi",
+            "Da Nang",
+            "Hai Phong"
+        ],
+        "answer": "Hanoi"
+    },
+    {
+        "question": "Which animal is the national symbol of the USA?",
+        "options": [
+            "Eagle",
+            "Bison",
+            "Bear",
+            "Wolf"
+        ],
+        "answer": "Eagle"
+    },
+    {
+        "question": "What is the largest hot desert in the world?",
+        "options": [
+            "Sahara Desert",
+            "Arabian Desert",
+            "Gobi Desert",
+            "Kalahari Desert"
+        ],
+        "answer": "Sahara Desert"
+    },
+    {
+        "question": "Which country is the largest producer of potatoes?",
+        "options": [
+            "China",
+            "India",
+            "Russia",
+            "USA"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital of the Philippines?",
+        "options": [
+            "Manila",
+            "Cebu",
+            "Davao",
+            "Quezon City"
+        ],
+        "answer": "Manila"
+    },
+    {
+        "question": "Which planet is the coldest in the solar system?",
+        "options": [
+            "Pluto",
+            "Neptune",
+            "Uranus",
+            "Saturn"
+        ],
+        "answer": "Neptune"
+    },
+    {
+        "question": "Who invented the printing press?",
+        "options": [
+            "Johannes Gutenberg",
+            "Leonardo da Vinci",
+            "Benjamin Franklin",
+            "Thomas Edison"
+        ],
+        "answer": "Johannes Gutenberg"
+    },
+    {
+        "question": "What is the largest wetland in the world?",
+        "options": [
+            "Pantanal",
+            "Everglades",
+            "Okavango Delta",
+            "Sundarbans"
+        ],
+        "answer": "Pantanal"
+    },
+    {
+        "question": "Which country is the largest producer of onions?",
+        "options": [
+            "China",
+            "India",
+            "USA",
+            "Egypt"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital of Iran?",
+        "options": [
+            "Tehran",
+            "Isfahan",
+            "Shiraz",
+            "Tabriz"
+        ],
+        "answer": "Tehran"
+    },
+    {
+        "question": "Which animal is the national symbol of England?",
+        "options": [
+            "Lion",
+            "Unicorn",
+            "Bulldog",
+            "Robin"
+        ],
+        "answer": "Lion"
+    },
+    {
+        "question": "What is the largest freshwater lake in the world?",
+        "options": [
+            "Lake Superior",
+            "Lake Baikal",
+            "Lake Victoria",
+            "Lake Tanganyika"
+        ],
+        "answer": "Lake Superior"
+    },
+    {
+        "question": "Which country is the largest producer of tomatoes?",
+        "options": [
+            "China",
+            "India",
+            "USA",
+            "Turkey"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital of Bangladesh?",
+        "options": [
+            "Dhaka",
+            "Chittagong",
+            "Khulna",
+            "Rajshahi"
+        ],
+        "answer": "Dhaka"
+    },
+    {
+        "question": "Which planet is the brightest in the night sky?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "question": "Who invented the steam engine?",
+        "options": [
+            "James Watt",
+            "Thomas Newcomen",
+            "George Stephenson",
+            "Robert Fulton"
+        ],
+        "answer": "James Watt"
+    },
+    {
+        "question": "What is the largest archipelago in the world?",
+        "options": [
+            "Indonesia",
+            "Philippines",
+            "Japan",
+            "Maldives"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "Which country is the largest producer of eggs?",
+        "options": [
+            "China",
+            "USA",
+            "India",
+            "Brazil"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital of Afghanistan?",
+        "options": [
+            "Kabul",
+            "Kandahar",
+            "Herat",
+            "Mazar-i-Sharif"
+        ],
+        "answer": "Kabul"
+    },
+    {
+        "question": "Which animal is the national symbol of Canada?",
+        "options": [
+            "Moose",
+            "Beaver",
+            "Polar Bear",
+            "Maple Leaf"
+        ],
+        "answer": "Beaver"
+    },
+    {
+        "question": "What is the largest river by discharge volume?",
+        "options": [
+            "Amazon River",
+            "Nile River",
+            "Yangtze River",
+            "Mississippi River"
+        ],
+        "answer": "Amazon River"
+    },
+    {
+        "question": "Which country is the largest producer of milk?",
+        "options": [
+            "USA",
+            "India",
+            "China",
+            "Brazil"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "What is the capital of Iraq?",
+        "options": [
+            "Baghdad",
+            "Mosul",
+            "Basra",
+            "Erbil"
+        ],
+        "answer": "Baghdad"
+    },
+    {
+        "question": "Which planet is the closest to Earth?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Mercury",
+            "Jupiter"
+        ],
+        "answer": "Venus"
+    },
+    {
+        "question": "Who invented the radio?",
+        "options": [
+            "Guglielmo Marconi",
+            "Nikola Tesla",
+            "Thomas Edison",
+            "Alexander Graham Bell"
+        ],
+        "answer": "Guglielmo Marconi"
+    },
+    {
+        "question": "What is the largest cave chamber in the world?",
+        "options": [
+            "Sarawak Chamber",
+            "Son Doong Cave",
+            "Mammoth Cave",
+            "Carlsbad Caverns"
+        ],
+        "answer": "Sarawak Chamber"
+    },
+    {
+        "question": "Which country is the largest producer of honey?",
+        "options": [
+            "China",
+            "USA",
+            "Turkey",
+            "India"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "options": [
+            "Lagos",
+            "Abuja",
+            "Kano",
+            "Port Harcourt"
+        ],
+        "answer": "Abuja"
+    },
+    {
+        "question": "Which animal is the national symbol of South Africa?",
+        "options": [
+            "Lion",
+            "Elephant",
+            "Springbok",
+            "Rhino"
+        ],
+        "answer": "Springbok"
+    },
+    {
+        "question": "What is the largest salt flat in the world?",
+        "options": [
+            "Salar de Uyuni",
+            "Bonneville Salt Flats",
+            "Etosha Pan",
+            "Makgadikgadi Pan"
+        ],
+        "answer": "Salar de Uyuni"
+    },
+    {
+        "question": "Which country is the largest producer of soybeans?",
+        "options": [
+            "USA",
+            "Brazil",
+            "Argentina",
+            "China"
+        ],
+        "answer": "USA"
+    },
+    {
+        "question": "What is the capital of Kenya?",
+        "options": [
+            "Nairobi",
+            "Mombasa",
+            "Kisumu",
+            "Nakuru"
+        ],
+        "answer": "Nairobi"
+    }
+]

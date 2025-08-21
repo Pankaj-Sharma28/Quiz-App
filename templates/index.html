@@ -1,0 +1,141 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz App - Home</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <style>
+    /* Ensure background fills full screen */
+    html, body, #your-element-selector {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    .container {
+      position: relative;
+      z-index: 1;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div id="your-element-selector">
+    <div class="container">
+      <h1> 🧠 Knowledge Quiz </h1>
+
+      <form method="post">
+        <div class="input-group">
+          <label for="name">Enter your name</label>
+          <input id="name" type="text" name="name" required placeholder="Your name">
+        </div>
+
+        <div class="input-group">
+          <label for="num">Number of Questions</label>
+          <input id="num" type="number" name="num_questions" min="1" max="50" value="25" required>
+        </div>
+
+        <button type="submit">Start Quiz</button>
+      </form>
+
+      <div class="footer" style="margin-top:16px;">
+        <a href="{{ url_for('all_results') }}"><button type="button">View All Results</button></a>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+  <script src="{{ url_for('static', filename='vanta-bg.js') }}"></script>
+  <script>
+    VANTA.WAVES({
+      el: "#your-element-selector",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 200.00,
+      minWidth: 200.00,
+      scale: 1.00,
+      scaleMobile: 1.00,
+      color: 0x1e90ff,    
+      shininess: 50.00,
+      waveHeight: 20.00,
+      waveSpeed: 1.00,
+      zoom: 0.75
+    })
+  </script>
+</body>
+</html>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz App - Home</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <style>
+    /* Ensure background fills full screen */
+    html, body, #your-element-selector {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    .container {
+      position: relative;
+      z-index: 1;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div id="your-element-selector">
+    <div class="container">
+      <h1> 🧠 Knowledge Quiz </h1>
+
+      <form method="post">
+        <div class="input-group">
+          <label for="name">Enter your name</label>
+          <input id="name" type="text" name="name" required placeholder="Your name">
+        </div>
+
+        <div class="input-group">
+          <label for="num">Number of Questions</label>
+          <input id="num" type="number" name="num_questions" min="1" max="50" value="25" required>
+        </div>
+
+        <button type="submit">Start Quiz</button>
+      </form>
+
+      <div class="footer" style="margin-top:16px;">
+        <a href="{{ url_for('all_results') }}"><button type="button">View All Results</button></a>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+  <script src="{{ url_for('static', filename='vanta-bg.js') }}"></script>
+  <script>
+    VANTA.WAVES({
+      el: "#your-element-selector",
+      mouseControls: true,
+      touchControls: true,
+      gyroControls: false,
+      minHeight: 200.00,
+      minWidth: 200.00,
+      scale: 1.00,
+      scaleMobile: 1.00,
+      color: 0x1e90ff,    
+      shininess: 50.00,
+      waveHeight: 20.00,
+      waveSpeed: 1.00,
+      zoom: 0.75
+    })
+  </script>
+</body>
+</html>
+>>>>>>> d295fd8 (quiz app initial commit)

@@ -1,0 +1,435 @@
+<<<<<<< HEAD
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #111;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+#your-element-selector {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 150%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.6);
+  width: 80%;
+  height: 600px;
+  max-width: 600px;
+  padding: 40px;
+  border-radius: 30px;
+  text-align: center;
+  box-shadow: 0 0 25px rgba(0, 255, 255, 0.5);
+  animation: floatUp 1.5s ease-in-out;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.container:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 40px rgba(0, 255, 255, 0.8);
+}
+
+h1 {
+  margin-bottom: 20px;
+  animation: glowText 2s infinite alternate;
+}
+
+.input-group {
+  margin: 15px 0;
+  opacity: 0;
+  text-align: center;
+  animation: fadeSlide 1s ease forwards;
+}
+
+.input-group:nth-child(2) { animation-delay: 0.3s; }
+.input-group:nth-child(3) { animation-delay: 0.6s; }
+
+label {
+  margin-top: 30px;
+  display: block;
+  font-size: 25px;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"] {
+  margin-top: 20px;
+  padding: 12px;
+  width: 70%;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  background: #222;
+  color: white;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:hover {
+  box-shadow: 0 0 10px cyan;
+  transform: scale(1.05);
+}
+
+button {
+  margin-top: 30px;
+  padding: 12px 25px;
+  background: cyan;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+  animation: pulse 1.5s infinite;
+}
+
+button:hover {
+  background: #00ffaa;
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #00ffaa;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #aaa;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.question {
+  font-size: 18px;
+  margin: 20px 0;
+  animation: fadeSlide 1.5s ease forwards;
+}
+
+.options {
+  text-align: center;
+  margin: 15px 0 25px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+}
+
+.next-btn {
+  display: block;
+  margin: 20px auto 0 auto; 
+  padding: 12px 25px;
+  background: cyan;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+  animation: pulse 1.5s infinite;
+}
+
+.next-btn:hover {
+  background: #00ffaa;
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #00ffaa;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+  animation: fadeIn 2s ease-in-out;
+}
+
+th, td {
+  border: 1px solid #111111;
+  padding: 10px;
+  text-align: center;
+  transition: background 0.3s;
+}
+
+tr:hover {
+  background: rgba(0, 255, 255, 0.1);
+}
+
+/* === Added styles for scrollable results table === */
+.results-container {
+  max-height: 250px;   /* Adjust as per design */
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-top: 15px;
+  border-radius: 10px;
+  border: 1px solid #050505;
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.results-table th, .results-table td {
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #1a1919;
+}
+
+.results-table th {
+  background: #222;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* === Animations === */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes floatUp {
+  from { transform: translateY(30px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes glowText {
+  from { text-shadow: 0 0 10px cyan; }
+  to { text-shadow: 0 0 25px #00ffaa, 0 0 35px cyan; }
+}
+
+@keyframes fadeSlide {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); box-shadow: 0 0 10px cyan; }
+  50% { transform: scale(1.05); box-shadow: 0 0 20px #00ffaa; }
+  100% { transform: scale(1); box-shadow: 0 0 10px cyan; }
+}
+=======
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #111;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+#your-element-selector {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 150%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.6);
+  width: 80%;
+  height: 600px;
+  max-width: 600px;
+  padding: 40px;
+  border-radius: 30px;
+  text-align: center;
+  box-shadow: 0 0 25px rgba(0, 255, 255, 0.5);
+  animation: floatUp 1.5s ease-in-out;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.container:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 40px rgba(0, 255, 255, 0.8);
+}
+
+h1 {
+  margin-bottom: 20px;
+  animation: glowText 2s infinite alternate;
+}
+
+.input-group {
+  margin: 15px 0;
+  opacity: 0;
+  text-align: center;
+  animation: fadeSlide 1s ease forwards;
+}
+
+.input-group:nth-child(2) { animation-delay: 0.3s; }
+.input-group:nth-child(3) { animation-delay: 0.6s; }
+
+label {
+  margin-top: 30px;
+  display: block;
+  font-size: 25px;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"] {
+  margin-top: 20px;
+  padding: 12px;
+  width: 70%;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  background: #222;
+  color: white;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:hover {
+  box-shadow: 0 0 10px cyan;
+  transform: scale(1.05);
+}
+
+button {
+  margin-top: 30px;
+  padding: 12px 25px;
+  background: cyan;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+  animation: pulse 1.5s infinite;
+}
+
+button:hover {
+  background: #00ffaa;
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #00ffaa;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #aaa;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.question {
+  font-size: 18px;
+  margin: 20px 0;
+  animation: fadeSlide 1.5s ease forwards;
+}
+
+.options {
+  text-align: center;
+  margin: 15px 0 25px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+}
+
+.next-btn {
+  display: block;
+  margin: 20px auto 0 auto; 
+  padding: 12px 25px;
+  background: cyan;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+  animation: pulse 1.5s infinite;
+}
+
+.next-btn:hover {
+  background: #00ffaa;
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #00ffaa;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+  animation: fadeIn 2s ease-in-out;
+}
+
+th, td {
+  border: 1px solid #111111;
+  padding: 10px;
+  text-align: center;
+  transition: background 0.3s;
+}
+
+tr:hover {
+  background: rgba(0, 255, 255, 0.1);
+}
+
+/* === Added styles for scrollable results table === */
+.results-container {
+  max-height: 250px;   /* Adjust as per design */
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-top: 15px;
+  border-radius: 10px;
+  border: 1px solid #050505;
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.results-table th, .results-table td {
+  padding: 10px;
+  text-align: center;
+  border-bottom: 1px solid #1a1919;
+}
+
+.results-table th {
+  background: #222;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* === Animations === */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes floatUp {
+  from { transform: translateY(30px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes glowText {
+  from { text-shadow: 0 0 10px cyan; }
+  to { text-shadow: 0 0 25px #00ffaa, 0 0 35px cyan; }
+}
+
+@keyframes fadeSlide {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); box-shadow: 0 0 10px cyan; }
+  50% { transform: scale(1.05); box-shadow: 0 0 20px #00ffaa; }
+  100% { transform: scale(1); box-shadow: 0 0 10px cyan; }
+}
+>>>>>>> d295fd8 (quiz app initial commit)
